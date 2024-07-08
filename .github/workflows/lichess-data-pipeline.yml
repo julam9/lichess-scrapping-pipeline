@@ -1,0 +1,39 @@
+name:lichess-data-pipeline-workflow 
+
+on:
+  push:
+  workflow-dispatch:
+  schedule: 
+    - cron:"0 0 1 1-12 *"
+
+jobs:
+  run-data-pipeline:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v4 
+        with:
+          token: ${{secrets.PERSONAL_ACCESS_TOKEN}}
+      - name: Setup Python 
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.9"
+          cache: "pip"
+      - name: Install dependencies
+        run: pip install -r requirements.txt 
+      - name: Run data pipeline
+        env:  
+          LICHESS_TOKEN: $((secrets.LICHESS_TOKEN))
+        run: python data-pipeline.py
+      - name: Check for changes
+        id: git-check
+        run: |
+          git config user.name "github-actions" 
+          git config user.email "github-actions@github.com"
+          git add .
+          git diff --staged --quiet || echo "changes=true" >> $GITHUB_ENV  
+      - name: Commit and push if changes
+        if: env.changes == "true"
+        run: |
+          git commit -m "updated record data"
+          git push
