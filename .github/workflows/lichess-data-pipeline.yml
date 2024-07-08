@@ -1,10 +1,10 @@
 name: lichess-data-pipeline-workflow 
 
-on:
+on: 
   push:
-  workflow-dispatch:
   schedule: 
-    - cron:"0 0 1 1-12 *"
+    - cron: "0 0 1 1-12 *" # run every 00:00 at day 1 from January to December
+  workflow_dispatch: # manual trigger
 
 jobs:
   run-data-pipeline:
@@ -23,9 +23,9 @@ jobs:
         run: pip install -r requirements.txt 
       - name: Run data pipeline
         env:  
-          LICHESS_TOKEN: $((secrets.LICHESS_TOKEN))
-        run: python data-pipeline.py
-      - name: Check for changes
+          LICHESS_TOKEN: ${{ secrets.LICHESS_TOKEN}} # import lichess token
+        run: python data-pipeline.py # run data pipeline
+      - name: Check for changes # check env variable indicating if any changes were made
         id: git-check
         run: |
           git config user.name "github-actions" 
@@ -33,7 +33,7 @@ jobs:
           git add .
           git diff --staged --quiet || echo "changes=true" >> $GITHUB_ENV  
       - name: Commit and push if changes
-        if: env.changes == "true"
+        if: env.changes == "true" # if changes made, push data to repo
         run: |
           git commit -m "updated record data"
           git push
