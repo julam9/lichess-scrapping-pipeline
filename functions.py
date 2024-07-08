@@ -58,7 +58,7 @@ def getrecord_top10(chess_category) -> pl.DataFrame:
     for i in range(1, 10) :
         # list of game
         games_list2 = client.games.export_by_player(players_id[i], since=start, until=end)
-        games_list_df2 = pd.json_normalize(games_list_df)
+        games_list_df2 = pl.DataFrame(pd.json_normalize(games_list_df))
         topplayers_games = topplayers_games.vstack(games_list_df2)
 
     return topplayers_games
