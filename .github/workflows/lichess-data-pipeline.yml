@@ -1,4 +1,4 @@
-name:lichess-data-pipeline-workflow 
+name: lichess-data-pipeline-workflow 
 
 on:
   push:
