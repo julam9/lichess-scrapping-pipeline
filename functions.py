@@ -51,10 +51,8 @@ def getrecord_top10(chess_category) -> pl.DataFrame:
     start = berserk.utils.to_millis(first_date)
     end = berserk.utils.to_millis(last_date)
 
-    #get_games = client.games.export_by_player(player_id, since=start, until=end)
-    
     # using polar for speed
-    #topplayers_games = pl.DataFrame(pd.json_normalize(get_games))
+    topplayers_games = pl.DataFrame(pd.json_normalize(client.games.export_by_player(players_id[0], since=start, until=end)))
     
     for i in range(1, 10) :
         # list of game
