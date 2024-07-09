@@ -59,6 +59,7 @@ def getrecord_top10(chess_category) -> pl.DataFrame:
         games_df = pd.json_normalize(client.games.export_by_player(players_id[i], since=start, until=end))
         topplayers_games = pd.concat([topplayers_games, games_df])
 
+    topplayers_games = pl.from_pandas(topplayers_games)
     return topplayers_games
     
 def getrecord_classical(): 
