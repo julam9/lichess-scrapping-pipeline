@@ -28,18 +28,17 @@ jobs:
       - name: Check for changes # check env variable indicating if any changes were made
         id: git-check
         run: |
-          set -e 
           echo "Git version:"
           git --version
           echo "Git config list:"
           git config --list 
           echo "Setting Git user name and email....."
-          git config user.name 'github-actions' || { echo "Failed to set user.name"; exit 1; }
-          git config user.email 'github-actions@github.com' || { echo "Failed to set user.email"; exit 1;}
+          if (!(git config user.name 'github-actions')) || { Write-Error "Failed to set user.name"; exit 1 }
+          if (!(git config user.email 'github-actions@github.com')) || { Write-Error "Failed to set user.email"; exit 1}
           echo "Adding changes....."
           git add .
           echo "Checking for changes....."
-          git diff --staged --quiet || echo "changes=true" >> $GITHUB_ENV  
+          if (git diff --staged --quiet) { echp "No changes detected"}   else { echo "changes=true" >> $env:GITHUB_ENV }
       - name: Commit and push if changes
         if: env.changes == 'true' # if changes made, push data to repo
         run: |
