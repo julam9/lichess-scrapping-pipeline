@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repo content
         uses: actions/checkout@v4 
         with:
-          token: ${{secrets.PERSONAL_ACCESS_TOKEN}}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN}}
       - name: Setup Python 
         uses: actions/setup-python@v5
         with:
@@ -28,6 +28,8 @@ jobs:
       - name: Check for changes # check env variable indicating if any changes were made
         id: git-check
         run: |
+          git --version
+          git config --list
           git config user.name 'github-actions' 
           git config user.email 'github-actions@github.com'
           git add .
