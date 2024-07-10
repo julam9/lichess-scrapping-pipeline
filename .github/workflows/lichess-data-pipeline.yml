@@ -35,12 +35,12 @@ jobs:
           Write-Output "Setting Git user name and email....."
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          Write-Output "Adding changes....."
-          git add .
           Write-Output "Checking for changes....."
-          $changes = git diff --staged --exit-code
-          if ($LASTEXITCODE -eq 1) {
-            Write-Output "changes=true" >> $env:GITHUB_ENV
+          git add -A 
+          $status = git status -s
+          if ($status){
+            Write-Output "changes=true" >> env$GITHUB_ENV
+            Write-Output "Changes detected"
           } else {
             Write-Output "No changes detected"
           }
