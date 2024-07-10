@@ -33,7 +33,7 @@ jobs:
           echo "Git config list:"
           git config --list 
           echo "Setting Git user name and email....."
-          if (!(git config user.name 'github-actions')) || { Write-Error "Failed to set user.name"; exit 1 }
+          if (!(git config user.name 'github-actions')) { Write-Error "Failed to set user.name"; exit 1 }
           if (!(git config user.email 'github-actions@github.com')) || { Write-Error "Failed to set user.email"; exit 1}
           echo "Adding changes....."
           git add .
