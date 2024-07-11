@@ -70,7 +70,7 @@ def getrecord_classical():
     """
     
     classical_record_df = getrecord_top10("classical")
-    classical_record_df.write_parquet("data/top10-classical-record.parquet")
+    classical_record_df.write_csv("data/top10-classical-record.csv")
 
 def getrecord_rapid(): 
     """
@@ -80,7 +80,7 @@ def getrecord_rapid():
     """
     
     rapid_record_df = getrecord_top10("rapid")
-    rapid_record_df.write_parquet("data/top10-rapid-record.parquet")
+    rapid_record_df.write_csv("data/top10-rapid-record.csv")
     
 def getrecord_blitz(): 
     """
@@ -90,7 +90,7 @@ def getrecord_blitz():
     """
     
     blitz_record_df = getrecord_top10("blitz")
-    blitz_record_df.write_parquet("data/top10-blitz-record.parquet")
+    blitz_record_df.write_csv("data/top10-blitz-record.csv")
     
 def getrecord_bullet(): 
     """
@@ -100,7 +100,7 @@ def getrecord_bullet():
     """
     
     bullet_record_df = getrecord_top10("bullet")
-    bullet_record_df.write_parquet("data/top10-bullet-record.parquet")
+    bullet_record_df.write_csv("data/top10-bullet-record.csv")
     
 def getrecord_ultrabullet(): 
     """
@@ -110,4 +110,4 @@ def getrecord_ultrabullet():
     """
     
     ultrabullet_record_df = getrecord_top10("ultraBullet")
-    ultrabullet_record_df.write_parquet("data/top10-ultrabullet-record.parquet")
+    ultrabullet_record_df.write_csv("data/top10-ultrabullet-record.csv")
