@@ -70,7 +70,9 @@ def getrecord_classical():
     """
     
     classical_record_df = getrecord_top10("classical")
-    classical_record_df.write_csv("data/top10-classical-record.csv")
+    file_path = "data/top10-classical-record.csv"
+    classical_record_df.write_csv(file_path)
+    print(f"Classical record written to {file_path}")
 
 def getrecord_rapid(): 
     """
@@ -80,7 +82,9 @@ def getrecord_rapid():
     """
     
     rapid_record_df = getrecord_top10("rapid")
-    rapid_record_df.write_csv("data/top10-rapid-record.csv")
+    file_path = "data/top10-rapid-record.csv"
+    rapid_record_df.write_csv(file_path)
+    print(f"Rapid record written to {file_path}")
     
 def getrecord_blitz(): 
     """
@@ -90,7 +94,9 @@ def getrecord_blitz():
     """
     
     blitz_record_df = getrecord_top10("blitz")
-    blitz_record_df.write_csv("data/top10-blitz-record.csv")
+    file_path = "data/top10-blitz-record.csv"
+    blitz_record_df.write_csv(file_path)
+    print(f"Blitz record written to {file_path}")
     
 def getrecord_bullet(): 
     """
@@ -100,7 +106,9 @@ def getrecord_bullet():
     """
     
     bullet_record_df = getrecord_top10("bullet")
-    bullet_record_df.write_csv("data/top10-bullet-record.csv")
+    file_path = "data/top10-bullet-record.csv"
+    bullet_record_df.write_csv(file_path)
+    print(f"Bullet record written to {file_path}")
     
 def getrecord_ultrabullet(): 
     """
@@ -110,4 +118,6 @@ def getrecord_ultrabullet():
     """
     
     ultrabullet_record_df = getrecord_top10("ultraBullet")
-    ultrabullet_record_df.write_csv("data/top10-ultrabullet-record.csv")
+    file_path = ("data/top10-ultrabullet-record.csv")
+    ultrabullet_record_df.write_csv(file_path)
+    print(f"Ultra bullet record written to {file_path}")

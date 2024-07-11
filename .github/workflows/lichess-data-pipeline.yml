@@ -36,11 +36,13 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           Write-Output "Checking for changes....."
-          git add -A 
+          git add -A
+          git add data/ #Ensure data folder is checked
           $status = git status -s
           if ($status){
             Write-Output "changes=true" >> env$GITHUB_ENV
             Write-Output "Changes detected"
+            Write-Output $status
           } else {
             Write-Output "No changes detected"
           }
