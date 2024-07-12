@@ -47,7 +47,7 @@ jobs:
             Write-Output "Changes detected"
             Write-Output $status
           } else {
-            Write-Output "No changes detected"
+            Write-Output "No changes detected"}
       - name: Commit and push if changes
         if: env.changes == 'true' # if changes made, push data to repo
         run: |
