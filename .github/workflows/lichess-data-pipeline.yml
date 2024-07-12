@@ -1,4 +1,4 @@
-name: lichess-data-pipeline-workflow 
+name: lichess-data-pipeline-workflow
 
 on: 
   push:
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repo content
         uses: actions/checkout@v4 
         with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN}}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Setup Python 
         uses: actions/setup-python@v5
         with:
@@ -26,9 +26,9 @@ jobs:
         run: pip install -r requirements.txt 
       - name: Run data pipeline
         env:  
-          LICHESS_TOKEN: ${{ secrets.LICHESS_TOKEN}} # import lichess token
+          LICHESS_TOKEN: ${{ secrets.LICHESS_TOKEN }} # import lichess token
         run: python data-pipeline.py # run data pipeline
-      - name: Check for changes # check env variable indicating if any changes were made
+      - name: Check for changes
         id: git-check
         run: |
           Write-Output "Git version:"
@@ -40,17 +40,19 @@ jobs:
           git config --global user.email 'github-actions@github.com'
           Write-Output "Checking for changes....."
           git add -A
-          git add data/ #Ensure data folder is checked
+          git add data/ # Ensure data folder is checked
           $status = git status -s
           if ($status){
-            Write-Output "changes=true" >> env$GITHUB_ENV
+            Write-Output "changes=true" >> $GITHUB_ENV
             Write-Output "Changes detected"
             Write-Output $status
           } else {
             Write-Output "No changes detected"
-          }
       - name: Commit and push if changes
         if: env.changes == 'true' # if changes made, push data to repo
         run: |
+          Write-Output "Committing changes..."
           git commit -m "updated record data"
+          Write-Output "Pushing changes..."
+          git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }}.git
           git push
