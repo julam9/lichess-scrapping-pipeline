@@ -11,7 +11,7 @@ permissions:
   
 jobs:
   run-data-pipeline:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repo content
         uses: actions/checkout@v4 
@@ -31,28 +31,29 @@ jobs:
       - name: Check for changes
         id: git-check
         run: |
-          Write-Output "Git version:"
+          echo "Git version:"
           git --version
-          Write-Output "Git config list:"
+          echo "Git config list:"
           git config --list 
-          Write-Output "Setting Git user name and email....."
+          echo "Setting Git user name and email..."
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          Write-Output "Checking for changes....."
+          echo "Checking for changes..."
           git add -A
-          git add data/ # Ensure data folder is checked
-          $status = git status -s
-          if ($status){
-            Write-Output "changes=true" >> $GITHUB_ENV
-            Write-Output "Changes detected"
-            Write-Output $status
-          } else {
-            Write-Output "No changes detected"}
+          git add lichess-record-data/ # Ensure lichess-record-data folder is checked
+          status=$(git status -s)
+          if [ -n "$status" ]; then
+            echo "changes=true" >> $GITHUB_ENV
+            echo "Changes detected"
+            echo "$status"
+          else
+            echo "No changes detected"
+          fi
       - name: Commit and push if changes
         if: env.changes == 'true' # if changes made, push data to repo
         run: |
-          Write-Output "Committing changes..."
+          echo "Committing changes..."
           git commit -m "updated record data"
-          Write-Output "Pushing changes..."
+          echo "Pushing changes..."
           git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }}.git
           git push

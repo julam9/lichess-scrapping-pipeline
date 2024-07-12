@@ -1,5 +1,4 @@
 import pandas as pd 
-import polars as pl
 import os
 import berserk 
 from datetime import datetime, date, timedelta
@@ -29,7 +28,7 @@ def gettop10players(chess_category) -> pd.DataFrame:
     # return 
     return top10_category
 
-def getrecord_top10(chess_category) -> pl.DataFrame:
+def getrecord_top10(chess_category) -> pd.DataFrame:
     """
     
         Function to get record of top 10 classic players in last 12 months
@@ -59,7 +58,6 @@ def getrecord_top10(chess_category) -> pl.DataFrame:
         games_df = pd.json_normalize(client.games.export_by_player(players_id[i], since=start, until=end))
         topplayers_games = pd.concat([topplayers_games, games_df])
 
-    topplayers_games = pl.from_pandas(topplayers_games)
     return topplayers_games
     
 def getrecord_classical(): 
@@ -70,8 +68,8 @@ def getrecord_classical():
     """
     
     classical_record_df = getrecord_top10("classical")
-    file_path = "data/top10-classical-record.csv"
-    classical_record_df.write_csv(file_path)
+    file_path = "lichess-record-data/top10-classical-record.csv"
+    classical_record_df.to_csv(file_path, index=False)
     print(f"Classical record written to {file_path}")
 
 def getrecord_rapid(): 
@@ -82,8 +80,8 @@ def getrecord_rapid():
     """
     
     rapid_record_df = getrecord_top10("rapid")
-    file_path = "data/top10-rapid-record.csv"
-    rapid_record_df.write_csv(file_path)
+    file_path = "lichess-record-data/top10-rapid-record.csv"
+    rapid_record_df.to_csv(file_path, index=False)
     print(f"Rapid record written to {file_path}")
     
 def getrecord_blitz(): 
@@ -94,8 +92,8 @@ def getrecord_blitz():
     """
     
     blitz_record_df = getrecord_top10("blitz")
-    file_path = "data/top10-blitz-record.csv"
-    blitz_record_df.write_csv(file_path)
+    file_path = "lichess-record-data/top10-blitz-record.csv"
+    blitz_record_df.to_csv(file_path, index=False)
     print(f"Blitz record written to {file_path}")
     
 def getrecord_bullet(): 
@@ -106,8 +104,8 @@ def getrecord_bullet():
     """
     
     bullet_record_df = getrecord_top10("bullet")
-    file_path = "data/top10-bullet-record.csv"
-    bullet_record_df.write_csv(file_path)
+    file_path = "lichess-record-data/top10-bullet-record.csv"
+    bullet_record_df.to_csv(file_path, index=False)
     print(f"Bullet record written to {file_path}")
     
 def getrecord_ultrabullet(): 
@@ -118,6 +116,6 @@ def getrecord_ultrabullet():
     """
     
     ultrabullet_record_df = getrecord_top10("ultraBullet")
-    file_path = ("data/top10-ultrabullet-record.csv")
-    ultrabullet_record_df.write_csv(file_path)
+    file_path = ("lichess-record-data/top10-ultrabullet-record.csv")
+    ultrabullet_record_df.to_csv(file_path, index=False)
     print(f"Ultra bullet record written to {file_path}")
