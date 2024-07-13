@@ -60,62 +60,49 @@ def getrecord_top10(chess_category) -> pd.DataFrame:
 
     return topplayers_games
     
-def getrecord_classical(): 
-    """
-    
-        Function to get records of top 10 players in classic chess
-    
-    """
-    
-    classical_record_df = getrecord_top10("classical")
-    file_path = "lichess-record-data/top10-classical-record.csv"
-    classical_record_df.to_csv(file_path, index=False)
-    print(f"Classical record written to {file_path}")
 
-def getrecord_rapid(): 
+def save_to_csv(dataframe, filename):
     """
-    
-        Function to get records of top 10 players in rapid chess
-    
+    Function to save a dataframe to a CSV file in the 'lichess-record-data' directory.
     """
-    
+    directory = 'lichess-record-data'
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    file_path = os.path.join(directory, filename)
+    dataframe.to_csv(file_path, index=False)
+    print(f"Data written to {file_path}")
+
+def getrecord_classical():
+    """
+    Function to get records of top 10 players in classic chess.
+    """
+    classical_record_df = getrecord_top10("classical")
+    save_to_csv(classical_record_df, "top10-classical-record.csv")
+
+def getrecord_rapid():
+    """
+    Function to get records of top 10 players in rapid chess.
+    """
     rapid_record_df = getrecord_top10("rapid")
-    file_path = "lichess-record-data/top10-rapid-record.csv"
-    rapid_record_df.to_csv(file_path, index=False)
-    print(f"Rapid record written to {file_path}")
-    
-def getrecord_blitz(): 
+    save_to_csv(rapid_record_df, "top10-rapid-record.csv")
+
+def getrecord_blitz():
     """
-    
-        Function to get records of top 10 players in blitz chess
-    
+    Function to get records of top 10 players in blitz chess.
     """
-    
     blitz_record_df = getrecord_top10("blitz")
-    file_path = "lichess-record-data/top10-blitz-record.csv"
-    blitz_record_df.to_csv(file_path, index=False)
-    print(f"Blitz record written to {file_path}")
-    
-def getrecord_bullet(): 
+    save_to_csv(blitz_record_df, "top10-blitz-record.csv")
+
+def getrecord_bullet():
     """
-    
-        Function to get records of top 10 players in bullet chess
-    
+    Function to get records of top 10 players in bullet chess.
     """
-    
     bullet_record_df = getrecord_top10("bullet")
-    file_path = "lichess-record-data/top10-bullet-record.csv"
-    bullet_record_df.to_csv(file_path, index=False)
-    print(f"Bullet record written to {file_path}")
-    
-def getrecord_ultrabullet(): 
+    save_to_csv(bullet_record_df, "top10-bullet-record.csv")
+
+def getrecord_ultrabullet():
     """
-    
-        Function to get records of top 10 players in ultra bullet chess
-    
+    Function to get records of top 10 players in ultra bullet chess.
     """
-    
     ultrabullet_record_df = getrecord_top10("ultraBullet")
-    file_path = ("lichess-record-data/top10-ultrabullet-record.csv")
-    ultrabullet_record_df.to_csv(file_path, index=False)
-    print(f"Ultra bullet record written to {file_path}")
+    save_to_csv(ultrabullet_record_df, "top10-ultrabullet-record.csv")
