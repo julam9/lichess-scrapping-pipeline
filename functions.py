@@ -58,10 +58,11 @@ def getrecord_top10(chess_category) -> pd.DataFrame:
         games_df = pd.json_normalize(client.games.export_by_player(players_id[i], since=start, until=end))
         topplayers_games = pd.concat([topplayers_games, games_df])
 
-    return topplayers_games
-    
+    # only choose useful index
+    cols_selection = list(range(1,4)) + list(range(7,8)) + list(range(9,11)) + list(range(12,13)) + list(range(14,16)) + list(range(19,21))
+    return topplayers_games.iloc[:, cols_selection]
 
-def save_to_csv(dataframe, filename):
+def save_record(dataframe, filename):
     """
     Function to save a dataframe to a CSV file in the 'lichess-record-data' directory.
     """
@@ -76,33 +77,33 @@ def getrecord_classical():
     """
     Function to get records of top 10 players in classic chess.
     """
-    classical_record_df = getrecord_top10("classical")
-    save_to_csv(classical_record_df, "top10-classical-record.csv")
+    classical_record = getrecord_top10("classical")
+    save_record(classical_record, "top10-classical-record.csv")
 
 def getrecord_rapid():
     """
     Function to get records of top 10 players in rapid chess.
     """
-    rapid_record_df = getrecord_top10("rapid")
-    save_to_csv(rapid_record_df, "top10-rapid-record.csv")
+    rapid_record = getrecord_top10("rapid")
+    save_record(rapid_record, "top10-rapid-record.csv")
 
 def getrecord_blitz():
     """
     Function to get records of top 10 players in blitz chess.
     """
-    blitz_record_df = getrecord_top10("blitz")
-    save_to_csv(blitz_record_df, "top10-blitz-record.csv")
+    blitz_record = getrecord_top10("blitz")
+    save_record(blitz_record, "top10-blitz-record.csv")
 
 def getrecord_bullet():
     """
     Function to get records of top 10 players in bullet chess.
     """
-    bullet_record_df = getrecord_top10("bullet")
-    save_to_csv(bullet_record_df, "top10-bullet-record.csv")
+    bullet_record = getrecord_top10("bullet")
+    save_record(bullet_record, "top10-bullet-record.csv")
 
 def getrecord_ultrabullet():
     """
     Function to get records of top 10 players in ultra bullet chess.
     """
-    ultrabullet_record_df = getrecord_top10("ultraBullet")
-    save_to_csv(ultrabullet_record_df, "top10-ultrabullet-record.csv")
+    ultrabullet_record = getrecord_top10("ultraBullet")
+    save_record(ultrabullet_record, "top10-ultrabullet-record.csv")
