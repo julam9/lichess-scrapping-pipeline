@@ -9381,13 +9381,13 @@ True,standard,bullet,outoftime,,white,MrKooshaJ,smileys.smiling-face-with-horns,
 True,standard,bullet,outoftime,,black,Kaio-chess,activity.lichess-berserk,kaio-chess,,-2.0
 True,standard,bullet,outoftime,,white,Aleksandr_Shalaev,nature.lion,aleksandr_shalaev,,9.0
 True,standard,bullet,mate,,black,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,,-9.0
-True,standard,bullet,draw,,,Mr_SarDeLka,symbols.wheelchair-symbol,mr_sardelka,True,8.0
+True,standard,bullet,draw,,,Mr_SarDeLka,travel-places.motorcycle,mr_sardelka,True,8.0
 True,standard,bullet,resign,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,,2.0
-True,standard,bullet,outoftime,,black,Mr_SarDeLka,symbols.wheelchair-symbol,mr_sardelka,True,-6.0
+True,standard,bullet,outoftime,,black,Mr_SarDeLka,travel-places.motorcycle,mr_sardelka,True,-6.0
 True,standard,bullet,outoftime,,black,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,,-9.0
-True,standard,bullet,outoftime,,white,Mr_SarDeLka,symbols.wheelchair-symbol,mr_sardelka,True,26.0
+True,standard,bullet,outoftime,,white,Mr_SarDeLka,travel-places.motorcycle,mr_sardelka,True,26.0
 True,standard,bullet,mate,,black,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,,-10.0
-True,standard,bullet,resign,,black,Mr_SarDeLka,symbols.wheelchair-symbol,mr_sardelka,True,-4.0
+True,standard,bullet,resign,,black,Mr_SarDeLka,travel-places.motorcycle,mr_sardelka,True,-4.0
 True,standard,bullet,mate,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,,1.0
 True,standard,bullet,outoftime,,white,Aleksandr_Shalaev,nature.lion,aleksandr_shalaev,,9.0
 True,standard,bullet,mate,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,,2.0
@@ -11356,8 +11356,6 @@ False,standard,bullet,mate,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrko
 False,standard,bullet,outoftime,,white,Remilia-Suika,,remilia-suika,,
 False,standard,bullet,outoftime,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,,
 False,standard,bullet,outoftime,,black,Remilia-Suika,,remilia-suika,,
-True,standard,bullet,outoftime,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,,6.0
-True,standard,bullet,resign,,black,DarmenS,,darmens,,-4.0
 False,standard,rapid,mate,,black,,,,,
 True,standard,rapid,draw,,,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,-2.0
 True,standard,bullet,outoftime,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,3.0
@@ -12774,7 +12772,7 @@ True,standard,bullet,resign,,black,variantplayer123,activity.lichess-berserk,var
 True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,4.0
 True,standard,bullet,outoftime,,white,NURHAN2020,people.clapping-hands,nurhan2020,,15.0
 True,standard,bullet,outoftime,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,6.0
-True,standard,bullet,resign,,white,vnak9,,vnak9,,6.0
+True,standard,bullet,resign,,white,vnak9,smileys.face-with-spiral-eyes,vnak9,,6.0
 True,standard,bullet,mate,,black,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,-6.0
 True,standard,bullet,outoftime,,,Hausigel,,hausigel,,0.0
 True,standard,bullet,draw,,,AKing2024,activity.1st-place-medal,aking2024,,1.0
@@ -13209,7 +13207,7 @@ True,standard,bullet,mate,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,
 True,standard,bullet,resign,,black,Chess_Dog8,nature.dog-face,chess_dog8,,-5.0
 True,standard,bullet,resign,,black,PriscaM,smileys.alien,priscam,,-2.0
 True,standard,bullet,resign,,black,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,-8.0
-True,standard,bullet,resign,,black,vnak9,,vnak9,,-5.0
+True,standard,bullet,resign,,black,vnak9,smileys.face-with-spiral-eyes,vnak9,,-5.0
 True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,4.0
 True,standard,bullet,outoftime,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,1.0
 True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,4.0
@@ -13388,7 +13386,7 @@ True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim
 True,standard,bullet,outoftime,,black,aleshaalesha,,aleshaalesha,,-3.0
 True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,3.0
 True,standard,blitz,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,3.0
-True,standard,bullet,mate,,black,vnak9,,vnak9,,-4.0
+True,standard,bullet,mate,,black,vnak9,smileys.face-with-spiral-eyes,vnak9,,-4.0
 True,standard,bullet,resign,,black,italyastageleri,,italyastageleri,,-4.0
 True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,5.0
 True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,2.0
@@ -19315,7 +19313,7 @@ True,standard,bullet,outoftime,,white,vvchessli,smileys.cold-face,vvchessli,,2.0
 True,standard,bullet,stalemate,,,Edgar_Karagyozyan,smileys.winking-face-with-tongue,edgar_karagyozyan,,3.0
 True,standard,bullet,resign,,black,vvchessli,smileys.cold-face,vvchessli,,-8.0
 True,standard,bullet,resign,,white,Ibrain23,smileys.smiling-face-with-sunglasses,ibrain23,,8.0
-True,standard,bullet,resign,,black,Mr_SarDeLka,symbols.wheelchair-symbol,mr_sardelka,True,-2.0
+True,standard,bullet,resign,,black,Mr_SarDeLka,travel-places.motorcycle,mr_sardelka,True,-2.0
 True,standard,bullet,mate,,white,vvchessli,smileys.cold-face,vvchessli,,2.0
 True,standard,bullet,mate,,white,vvchessli,smileys.cold-face,vvchessli,,2.0
 True,standard,bullet,resign,,black,W7W7W7W7W7,,w7w7w7w7w7,,-4.0
@@ -21940,7 +21938,7 @@ True,standard,bullet,resign,,white,RomChartres,people.man-genie,romchartres,,9.0
 True,standard,bullet,resign,,white,vvchessli,smileys.cold-face,vvchessli,,2.0
 True,standard,bullet,resign,,black,RomChartres,people.man-genie,romchartres,,-2.0
 True,standard,bullet,outoftime,,white,vvchessli,smileys.cold-face,vvchessli,,3.0
-True,standard,bullet,outoftime,,black,vnak9,,vnak9,,-6.0
+True,standard,bullet,outoftime,,black,vnak9,smileys.face-with-spiral-eyes,vnak9,,-6.0
 True,standard,bullet,resign,,black,LOTOSI,,lotosi,,-2.0
 True,standard,bullet,mate,,white,vvchessli,smileys.cold-face,vvchessli,,4.0
 True,standard,bullet,draw,,,Snizzlegoop,,snizzlegoop,,2.0
@@ -41825,16 +41823,16 @@ True,standard,bullet,resign,,black,Bang_broooy,,bang_broooy,,-2.0
 True,standard,bullet,resign,,white,SavvaVetokhin2009,smileys.face-with-open-eyes-and-hand-over-mouth,savvavetokhin2009,True,3.0
 True,kingOfTheHill,bullet,variantEnd,,white,SavvaVetokhin2009,smileys.face-with-open-eyes-and-hand-over-mouth,savvavetokhin2009,True,11.0
 True,chess960,bullet,mate,nnrkbrqb/pppppppp/8/8/8/8/PPPPPPPP/NNRKBRQB w KQkq - 0 1,white,SavvaVetokhin2009,smileys.face-with-open-eyes-and-hand-over-mouth,savvavetokhin2009,True,10.0
-True,chess960,bullet,outoftime,nnrkbrqb/pppppppp/8/8/8/8/PPPPPPPP/NNRKBRQB w KQkq - 0 1,,Mr_SarDeLka,symbols.wheelchair-symbol,mr_sardelka,True,1.0
+True,chess960,bullet,outoftime,nnrkbrqb/pppppppp/8/8/8/8/PPPPPPPP/NNRKBRQB w KQkq - 0 1,,Mr_SarDeLka,travel-places.motorcycle,mr_sardelka,True,1.0
 True,chess960,bullet,outoftime,rnknqbbr/pppppppp/8/8/8/8/PPPPPPPP/RNKNQBBR w KQkq - 0 1,white,SavvaVetokhin2009,smileys.face-with-open-eyes-and-hand-over-mouth,savvavetokhin2009,True,11.0
-True,chess960,bullet,resign,rnknqbbr/pppppppp/8/8/8/8/PPPPPPPP/RNKNQBBR w KQkq - 0 1,black,Mr_SarDeLka,symbols.wheelchair-symbol,mr_sardelka,True,-9.0
+True,chess960,bullet,resign,rnknqbbr/pppppppp/8/8/8/8/PPPPPPPP/RNKNQBBR w KQkq - 0 1,black,Mr_SarDeLka,travel-places.motorcycle,mr_sardelka,True,-9.0
 True,chess960,bullet,mate,rqnkbbrn/pppppppp/8/8/8/8/PPPPPPPP/RQNKBBRN w KQkq - 0 1,black,SavvaVetokhin2009,smileys.face-with-open-eyes-and-hand-over-mouth,savvavetokhin2009,True,-14.0
-True,chess960,bullet,outoftime,rqnkbbrn/pppppppp/8/8/8/8/PPPPPPPP/RQNKBBRN w KQkq - 0 1,white,Mr_SarDeLka,symbols.wheelchair-symbol,mr_sardelka,True,12.0
+True,chess960,bullet,outoftime,rqnkbbrn/pppppppp/8/8/8/8/PPPPPPPP/RQNKBBRN w KQkq - 0 1,white,Mr_SarDeLka,travel-places.motorcycle,mr_sardelka,True,12.0
 True,chess960,bullet,mate,rkqbrnbn/pppppppp/8/8/8/8/PPPPPPPP/RKQBRNBN w KQkq - 0 1,black,SavvaVetokhin2009,smileys.face-with-open-eyes-and-hand-over-mouth,savvavetokhin2009,True,-17.0
-True,chess960,bullet,outoftime,rkqbrnbn/pppppppp/8/8/8/8/PPPPPPPP/RKQBRNBN w KQkq - 0 1,,Mr_SarDeLka,symbols.wheelchair-symbol,mr_sardelka,True,3.0
+True,chess960,bullet,outoftime,rkqbrnbn/pppppppp/8/8/8/8/PPPPPPPP/RKQBRNBN w KQkq - 0 1,,Mr_SarDeLka,travel-places.motorcycle,mr_sardelka,True,3.0
 True,chess960,bullet,outoftime,qrkrnbbn/pppppppp/8/8/8/8/PPPPPPPP/QRKRNBBN w KQkq - 0 1,black,SavvaVetokhin2009,smileys.face-with-open-eyes-and-hand-over-mouth,savvavetokhin2009,True,-20.0
-True,chess960,bullet,mate,qrkrnbbn/pppppppp/8/8/8/8/PPPPPPPP/QRKRNBBN w KQkq - 0 1,white,Mr_SarDeLka,symbols.wheelchair-symbol,mr_sardelka,True,16.0
-True,chess960,bullet,outoftime,bbnqrnkr/pppppppp/8/8/8/8/PPPPPPPP/BBNQRNKR w KQkq - 0 1,black,Mr_SarDeLka,symbols.wheelchair-symbol,mr_sardelka,True,-7.0
+True,chess960,bullet,mate,qrkrnbbn/pppppppp/8/8/8/8/PPPPPPPP/QRKRNBBN w KQkq - 0 1,white,Mr_SarDeLka,travel-places.motorcycle,mr_sardelka,True,16.0
+True,chess960,bullet,outoftime,bbnqrnkr/pppppppp/8/8/8/8/PPPPPPPP/BBNQRNKR w KQkq - 0 1,black,Mr_SarDeLka,travel-places.motorcycle,mr_sardelka,True,-7.0
 True,chess960,bullet,outoftime,bbnqrnkr/pppppppp/8/8/8/8/PPPPPPPP/BBNQRNKR w KQkq - 0 1,white,SavvaVetokhin2009,smileys.face-with-open-eyes-and-hand-over-mouth,savvavetokhin2009,True,12.0
 True,standard,bullet,outoftime,,black,LuckyGraaf,,luckygraaf,,-6.0
 True,standard,bullet,outoftime,,white,SavvaVetokhin2009,smileys.face-with-open-eyes-and-hand-over-mouth,savvavetokhin2009,True,6.0
