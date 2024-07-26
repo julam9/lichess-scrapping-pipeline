@@ -4039,7 +4039,7 @@ False,fromPosition,blitz,draw,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBN
 False,fromPosition,blitz,mate,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 1,black,chessplay2023,,chessplay2023,DrVitman,activity.martial-arts-uniform
 False,fromPosition,blitz,outoftime,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 1,black,DrVitman,activity.martial-arts-uniform,drvitman,bobbyfisher369,smileys.alien
 False,fromPosition,blitz,draw,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 1,,chessplay35,smileys.angry-face-with-horns,chessplay35,DrVitman,activity.martial-arts-uniform
-False,fromPosition,blitz,draw,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 1,,DrVitman,activity.martial-arts-uniform,drvitman,KARSENIY,
+False,fromPosition,blitz,draw,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 1,,DrVitman,activity.martial-arts-uniform,drvitman,KARSENIY,food-drink.pear
 False,fromPosition,blitz,mate,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 1,white,DrVitman,activity.martial-arts-uniform,drvitman,Arter_Wamin,activity.heart-suit
 False,fromPosition,blitz,resign,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 1,black,Vidit786,smileys.nerd-face,vidit786,DrVitman,activity.martial-arts-uniform
 False,standard,rapid,draw,,,mrkarlthekid,,mrkarlthekid,DrVitman,activity.martial-arts-uniform
@@ -4629,12 +4629,6 @@ False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB
 False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQq - 0 1,black,DrVitman,activity.martial-arts-uniform,drvitman,,
 False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQ - 0 1,black,DrVitman,activity.martial-arts-uniform,drvitman,,
 False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQ - 0 1,white,DrVitman,activity.martial-arts-uniform,drvitman,,
-False,fromPosition,blitz,resign,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 1,black,RookAndRoll_020,,rookandroll_020,DrVitman,activity.martial-arts-uniform
-False,fromPosition,blitz,outoftime,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 1,black,MrCrusher,,mrcrusher,DrVitman,activity.martial-arts-uniform
-False,fromPosition,blitz,resign,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 1,black,BuletcHesS2701,,buletchess2701,DrVitman,activity.martial-arts-uniform
-False,fromPosition,blitz,resign,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 1,black,pagmanov,,pagmanov,DrVitman,activity.martial-arts-uniform
-False,fromPosition,blitz,resign,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 1,black,NotASmartKid,,notasmartkid,DrVitman,activity.martial-arts-uniform
-False,fromPosition,blitz,resign,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 1,white,MrImperaTorGG,,mrimperatorgg,DrVitman,activity.martial-arts-uniform
 True,standard,blitz,mate,,white,Roman_Yanchenko,,roman_yanchenko,Affrica,
 True,standard,blitz,resign,,white,Andrey_Klymchuk,,andrey_klymchuk,Roman_Yanchenko,
 True,standard,blitz,mate,,white,Roman_Yanchenko,,roman_yanchenko,BelyakovBogdan,activity.1st-place-medal
@@ -5391,8 +5385,8 @@ True,standard,blitz,outoftime,,black,comicsclub,,comicsclub,Roman_Yanchenko,
 True,standard,blitz,mate,,black,hyperreal,,hyperreal,Roman_Yanchenko,
 True,standard,blitz,stalemate,,,Roman_Yanchenko,,roman_yanchenko,hyperreal,
 True,standard,blitz,resign,,white,Roman_Yanchenko,,roman_yanchenko,Chesssknock,
-True,standard,blitz,resign,,black,dhfernandez,food-drink.avocado,dhfernandez,Roman_Yanchenko,
-True,standard,blitz,outoftime,,,Roman_Yanchenko,,roman_yanchenko,dhfernandez,food-drink.avocado
+True,standard,blitz,resign,,black,dhfernandez,food-drink.chocolate-bar,dhfernandez,Roman_Yanchenko,
+True,standard,blitz,outoftime,,,Roman_Yanchenko,,roman_yanchenko,dhfernandez,food-drink.chocolate-bar
 True,standard,blitz,mate,,white,WhisperingXylophone,,whisperingxylophone,Roman_Yanchenko,
 False,fromPosition,blitz,mate,7q/4k3/8/8/8/8/8/3BK3 w - - 0 1,black,Roman_Yanchenko,,roman_yanchenko,a1ac,
 False,fromPosition,blitz,draw,7q/4k3/8/8/8/8/8/3BK3 w - - 0 1,,Roman_Yanchenko,,roman_yanchenko,Sophia_MUC,
@@ -6049,10 +6043,10 @@ True,standard,ultraBullet,timeout,,black,Roman_Yanchenko,,roman_yanchenko,Parola
 True,standard,ultraBullet,outoftime,,white,Parolagizli63,activity.lichess-berserk,parolagizli63,Roman_Yanchenko,
 True,standard,ultraBullet,mate,,black,Roman_Yanchenko,,roman_yanchenko,srcapivara,
 True,standard,ultraBullet,outoftime,,black,Youthcoaching,,youthcoaching,Roman_Yanchenko,
-True,standard,blitz,resign,,white,dhfernandez,food-drink.avocado,dhfernandez,Roman_Yanchenko,
-True,standard,blitz,resign,,black,Roman_Yanchenko,,roman_yanchenko,dhfernandez,food-drink.avocado
-True,standard,blitz,outoftime,,white,dhfernandez,food-drink.avocado,dhfernandez,Roman_Yanchenko,
-True,standard,blitz,resign,,black,Roman_Yanchenko,,roman_yanchenko,dhfernandez,food-drink.avocado
+True,standard,blitz,resign,,white,dhfernandez,food-drink.chocolate-bar,dhfernandez,Roman_Yanchenko,
+True,standard,blitz,resign,,black,Roman_Yanchenko,,roman_yanchenko,dhfernandez,food-drink.chocolate-bar
+True,standard,blitz,outoftime,,white,dhfernandez,food-drink.chocolate-bar,dhfernandez,Roman_Yanchenko,
+True,standard,blitz,resign,,black,Roman_Yanchenko,,roman_yanchenko,dhfernandez,food-drink.chocolate-bar
 True,standard,blitz,mate,,black,mircica,,mircica,Roman_Yanchenko,
 True,standard,blitz,resign,,white,Roman_Yanchenko,,roman_yanchenko,Rudi128,
 True,standard,blitz,resign,,black,Arsenov_A,,arsenov_a,Roman_Yanchenko,
@@ -8158,7 +8152,7 @@ True,chess960,bullet,outoftime,nrnkqrbb/pppppppp/8/8/8/8/PPPPPPPP/NRNKQRBB w KQk
 False,chess960,rapid,resign,brnbkrnq/pppppppp/8/8/8/8/PPPPPPPP/BRNBKRNQ w KQkq - 0 1,black,ThreeFatFluffyCats,,threefatfluffycats,MrKooshaJ,smileys.smiling-face-with-horns
 False,chess960,rapid,resign,brnbkrnq/pppppppp/8/8/8/8/PPPPPPPP/BRNBKRNQ w KQkq - 0 1,black,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,ThreeFatFluffyCats,
 False,standard,blitz,resign,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,chessvideworld,nature.shark
-False,standard,blitz,resign,,black,Siiiiiiuuuuuuuuuu,,siiiiiiuuuuuuuuuu,MrKooshaJ,smileys.smiling-face-with-horns
+False,standard,blitz,resign,,black,Siiiiiiuuuuuuuuuu,smileys.alien,siiiiiiuuuuuuuuuu,MrKooshaJ,smileys.smiling-face-with-horns
 True,standard,bullet,outoftime,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,Spinoza_echec,
 True,standard,bullet,outoftime,,black,aashetty,,aashetty,MrKooshaJ,smileys.smiling-face-with-horns
 True,standard,bullet,outoftime,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,aashetty,
@@ -9296,7 +9290,7 @@ False,standard,blitz,resign,,white,TrunksSSJ2,activity.boxing-glove,trunksssj2,M
 False,standard,blitz,resign,,black,saadp,,saadp,MrKooshaJ,smileys.smiling-face-with-horns
 False,standard,blitz,outoftime,,black,MoUcHeSs0707,,mouchess0707,MrKooshaJ,smileys.smiling-face-with-horns
 False,standard,blitz,outoftime,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,agape-chess,people.eyes
-False,standard,blitz,outoftime,,black,Siiiiiiuuuuuuuuuu,,siiiiiiuuuuuuuuuu,MrKooshaJ,smileys.smiling-face-with-horns
+False,standard,blitz,outoftime,,black,Siiiiiiuuuuuuuuuu,smileys.alien,siiiiiiuuuuuuuuuu,MrKooshaJ,smileys.smiling-face-with-horns
 False,standard,bullet,outoftime,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,SharkBlueKing9879,smileys.ghost
 False,standard,bullet,resign,,black,jsbabach1,objects.desktop-computer,jsbabach1,MrKooshaJ,smileys.smiling-face-with-horns
 False,standard,bullet,outoftime,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,bad-player123,
@@ -23756,6 +23750,8 @@ True,standard,bullet,mate,,black,Asher_Angel,,asher_angel,vvchessli,smileys.cold
 True,standard,bullet,resign,,black,vvchessli,smileys.cold-face,vvchessli,Asher_Angel,
 True,standard,bullet,resign,,black,vvchessli,smileys.cold-face,vvchessli,MMM_Zhukovskiy,symbols.scorpio
 True,standard,bullet,outoftime,,white,DY0727,,dy0727,vvchessli,smileys.cold-face
+True,standard,blitz,outoftime,,black,Konnov_Oleg,,konnov_oleg,megasnikolaos,
+True,standard,blitz,outoftime,,black,Konnov_Oleg,,konnov_oleg,momster4,
 True,standard,classical,resign,,white,Konnov_Oleg,,konnov_oleg,Tipsntaps,
 True,standard,classical,resign,,white,Konnov_Oleg,,konnov_oleg,kavianiplaysblitz,
 True,standard,classical,resign,,black,habsnichtgesehen,,habsnichtgesehen,Konnov_Oleg,
@@ -25994,7 +25990,7 @@ True,standard,blitz,mate,,black,coventry,,coventry,Konnov_Oleg,
 True,standard,blitz,resign,,black,chess_world_1,,chess_world_1,Konnov_Oleg,
 True,standard,blitz,resign,,white,Konnov_Oleg,,konnov_oleg,callofdeath,nature.milky-way
 True,standard,blitz,outoftime,,black,locobreath,,locobreath,Konnov_Oleg,
-True,standard,blitz,stalemate,,,dhfernandez,food-drink.avocado,dhfernandez,Konnov_Oleg,
+True,standard,blitz,stalemate,,,dhfernandez,food-drink.chocolate-bar,dhfernandez,Konnov_Oleg,
 True,standard,blitz,resign,,white,Konnov_Oleg,,konnov_oleg,aeminovsensey1,
 True,standard,blitz,outoftime,,black,Konnov_Oleg,,konnov_oleg,ZERKALO86,
 True,standard,blitz,resign,,black,MrTroutstanding,,mrtroutstanding,Konnov_Oleg,
@@ -29573,12 +29569,8 @@ True,standard,blitz,outoftime,,,Apodex64,people.flexed-biceps,apodex64,Konnov_Ol
 True,standard,blitz,outoftime,,white,Konnov_Oleg,,konnov_oleg,Kotofeyca,nature.cat
 True,standard,blitz,outoftime,,white,bsmail,,bsmail,Konnov_Oleg,
 True,standard,blitz,resign,,white,Konnov_Oleg,,konnov_oleg,Fortend,
-True,standard,blitz,outoftime,,white,Konnov_Oleg,,konnov_oleg,kamil1963,
-True,standard,blitz,draw,,,Konnov_Oleg,,konnov_oleg,osman_pshmahov05,
-True,standard,blitz,resign,,black,shuriks91,,shuriks91,Konnov_Oleg,
-True,standard,blitz,mate,,black,a2m2011,,a2m2011,Konnov_Oleg,
-True,standard,blitz,resign,,black,Atahan-06,,atahan-06,Konnov_Oleg,
-True,standard,blitz,mate,,white,Argysh,,argysh,Konnov_Oleg,
+False,standard,rapid,resign,,white,Aborigen100500,travel-places.sailboat,aborigen100500,Ivan2203,nature.beaver
+False,standard,rapid,resign,,black,Ivan2203,nature.beaver,ivan2203,Aborigen100500,travel-places.sailboat
 True,standard,rapid,resign,,white,Aborigen100500,travel-places.sailboat,aborigen100500,emandr,smileys.cold-face
 True,standard,rapid,resign,,black,Potapych18,,potapych18,Aborigen100500,travel-places.sailboat
 True,standard,rapid,outoftime,,black,Vasenko_stepan,,vasenko_stepan,Aborigen100500,travel-places.sailboat
@@ -33183,14 +33175,6 @@ True,standard,rapid,resign,,white,Aborigen100500,travel-places.sailboat,aborigen
 True,standard,rapid,mate,,black,Party-man,smileys.beaming-face-with-smiling-eyes,party-man,Aborigen100500,travel-places.sailboat
 True,standard,rapid,resign,,white,Aborigen100500,travel-places.sailboat,aborigen100500,magdal28,
 True,standard,rapid,draw,,,XtraSpicy,,xtraspicy,Aborigen100500,travel-places.sailboat
-True,standard,rapid,resign,,white,Aborigen100500,travel-places.sailboat,aborigen100500,Rokitokitoki,
-True,standard,rapid,outoftime,,,Rokitokitoki,,rokitokitoki,Aborigen100500,travel-places.sailboat
-True,standard,blitz,resign,,white,Aborigen100500,travel-places.sailboat,aborigen100500,shuriks91,
-True,standard,blitz,resign,,black,filolog,,filolog,Aborigen100500,travel-places.sailboat
-True,standard,blitz,draw,,,Aborigen100500,travel-places.sailboat,aborigen100500,filolog,
-True,standard,blitz,resign,,black,filolog,,filolog,Aborigen100500,travel-places.sailboat
-True,standard,blitz,outoftime,,black,Aborigen100500,travel-places.sailboat,aborigen100500,filolog,
-True,standard,blitz,resign,,white,filolog,,filolog,Aborigen100500,travel-places.sailboat
 True,standard,bullet,draw,,,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,BeyEmirhan,symbols.mending-heart
 True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,yuriy76,nature.scorpion
 True,standard,blitz,mate,,white,Roman_Yanchenko,,roman_yanchenko,BelyakovBogdan,activity.1st-place-medal
@@ -33712,7 +33696,7 @@ True,standard,blitz,resign,,black,Tokepinangulim,,tokepinangulim,BelyakovBogdan,
 True,standard,blitz,mate,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,Pittu_1170,smileys.ghost
 True,standard,blitz,mate,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,Angry_Khinkali,nature.panda
 True,standard,blitz,mate,,black,Tokepinangulim,,tokepinangulim,BelyakovBogdan,activity.1st-place-medal
-True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,hanonet,smileys.sneezing-face
+True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,hanonet,smileys.weary-cat
 True,standard,blitz,mate,,black,adelkazan113,,adelkazan113,BelyakovBogdan,activity.1st-place-medal
 True,standard,blitz,resign,,black,vamsiannipindi,nature.fire,vamsiannipindi,BelyakovBogdan,activity.1st-place-medal
 True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,adelkazan113,
@@ -34432,7 +34416,7 @@ True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyak
 True,standard,blitz,resign,,black,Sasha_Karmazin,nature.beaver,sasha_karmazin,BelyakovBogdan,activity.1st-place-medal
 True,standard,blitz,mate,,black,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,Yurik6,nature.bear
 True,standard,blitz,resign,,white,Egor1811,,egor1811,BelyakovBogdan,activity.1st-place-medal
-True,standard,blitz,resign,,black,KARSENIY,,karseniy,BelyakovBogdan,activity.1st-place-medal
+True,standard,blitz,resign,,black,KARSENIY,food-drink.pear,karseniy,BelyakovBogdan,activity.1st-place-medal
 True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,Karloson2,
 True,standard,blitz,resign,,white,Bang_broooy,,bang_broooy,BelyakovBogdan,activity.1st-place-medal
 True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,Viktor_Badmazhapov,activity.1st-place-medal
