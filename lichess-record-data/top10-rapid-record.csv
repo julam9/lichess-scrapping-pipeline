@@ -284,7 +284,7 @@ False,fromPosition,correspondence,mate,2b1k3/pppp1ppp/8/8/8/8/PPPPPPPP/R3K3 w - 
 False,standard,blitz,outoftime,,white,DrVitman,activity.martial-arts-uniform,drvitman,OM2022,smileys.upside-down-face
 False,standard,blitz,outoftime,,black,ab4gm,smileys.cold-face,ab4gm,DrVitman,activity.martial-arts-uniform
 False,standard,blitz,resign,,black,Ishaan4e,,ishaan4e,DrVitman,activity.martial-arts-uniform
-False,standard,blitz,resign,,black,Timulin,food-drink.red-apple,timulin,DrVitman,activity.martial-arts-uniform
+False,standard,blitz,resign,,black,Timulin,activity.jack-o-lantern,timulin,DrVitman,activity.martial-arts-uniform
 False,standard,blitz,resign,,black,DrVitman,activity.martial-arts-uniform,drvitman,ThomasVK,
 False,standard,blitz,resign,,black,DrVitman,activity.martial-arts-uniform,drvitman,cloudyhero,
 False,standard,blitz,outoftime,,black,DonkeysAreCute,nature.horse-face,donkeysarecute,DrVitman,activity.martial-arts-uniform
@@ -23760,12 +23760,6 @@ True,standard,bullet,mate,,black,Asher_Angel,,asher_angel,vvchessli,smileys.cold
 True,standard,bullet,resign,,black,vvchessli,smileys.cold-face,vvchessli,Asher_Angel,
 True,standard,bullet,resign,,black,vvchessli,smileys.cold-face,vvchessli,MMM_Zhukovskiy,symbols.scorpio
 True,standard,bullet,outoftime,,white,DY0727,,dy0727,vvchessli,smileys.cold-face
-True,standard,bullet,mate,,white,alekhinejaja05,nature.high-voltage,alekhinejaja05,vvchessli,smileys.cold-face
-True,standard,bullet,mate,,white,vvchessli,smileys.cold-face,vvchessli,Darylp_baguio,nature.fire
-True,standard,bullet,resign,,black,JBakker,,jbakker,vvchessli,smileys.cold-face
-True,standard,bullet,outoftime,,black,vvchessli,smileys.cold-face,vvchessli,Ernur2008,symbols.triangular-flag
-True,standard,bullet,mate,,black,vvchessli,smileys.cold-face,vvchessli,Darylp_baguio,nature.fire
-True,standard,bullet,resign,,white,KTTL-NguyenNamKiet11,smileys.skull-and-crossbones,kttl-nguyennamkiet11,vvchessli,smileys.cold-face
 True,standard,classical,resign,,white,Konnov_Oleg,,konnov_oleg,Tipsntaps,
 True,standard,classical,resign,,white,Konnov_Oleg,,konnov_oleg,kavianiplaysblitz,
 True,standard,classical,resign,,black,habsnichtgesehen,,habsnichtgesehen,Konnov_Oleg,
@@ -27288,7 +27282,7 @@ True,standard,blitz,outoftime,,black,PERFORMER43,,performer43,Konnov_Oleg,
 True,standard,blitz,outoftime,,white,xcvbnm2023,,xcvbnm2023,Konnov_Oleg,
 True,standard,blitz,outoftime,,black,Konnov_Oleg,,konnov_oleg,Muerteblanca5,symbols.move-brilliant
 True,standard,blitz,outoftime,,black,Konnov_Oleg,,konnov_oleg,Lioni26,
-True,standard,blitz,resign,,black,Mikevs,nature.cat-face,mikevs,Konnov_Oleg,
+True,standard,blitz,resign,,black,Mikevs,nature.black-cat,mikevs,Konnov_Oleg,
 True,standard,blitz,resign,,black,fastblitzplayer,,fastblitzplayer,Konnov_Oleg,
 True,standard,blitz,outoftime,,white,Konnov_Oleg,,konnov_oleg,reviks,
 True,standard,blitz,resign,,white,Konnov_Oleg,,konnov_oleg,sutcunuri,
@@ -33210,11 +33204,6 @@ True,standard,blitz,resign,,white,Aborigen100500,travel-places.sailboat,aborigen
 True,standard,blitz,outoftime,,white,Turboplombir,food-drink.soft-ice-cream,turboplombir,Aborigen100500,travel-places.sailboat
 True,standard,blitz,outoftime,,white,IDISJUDA,nature.tiger,idisjuda,Aborigen100500,travel-places.sailboat
 True,standard,blitz,outoftime,,black,Aborigen100500,travel-places.sailboat,aborigen100500,IDISJUDA,nature.tiger
-True,standard,blitz,outoftime,,white,Aborigen100500,travel-places.sailboat,aborigen100500,Belousov1996,
-True,standard,blitz,resign,,black,Belousov1996,,belousov1996,Aborigen100500,travel-places.sailboat
-True,standard,blitz,mate,,black,Aborigen100500,travel-places.sailboat,aborigen100500,Belousov1996,
-True,standard,blitz,outoftime,,black,Belousov1996,,belousov1996,Aborigen100500,travel-places.sailboat
-True,standard,rapid,mate,,black,Aborigen100500,travel-places.sailboat,aborigen100500,nhattan185,
 True,standard,bullet,draw,,,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,BeyEmirhan,symbols.mending-heart
 True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,yuriy76,nature.scorpion
 True,standard,blitz,mate,,white,Roman_Yanchenko,,roman_yanchenko,BelyakovBogdan,activity.1st-place-medal
@@ -33738,7 +33727,7 @@ True,standard,blitz,mate,,white,BelyakovBogdan,activity.1st-place-medal,belyakov
 True,standard,blitz,mate,,black,Tokepinangulim,,tokepinangulim,BelyakovBogdan,activity.1st-place-medal
 True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,hanonet,smileys.sneezing-face
 True,standard,blitz,mate,,black,adelkazan113,,adelkazan113,BelyakovBogdan,activity.1st-place-medal
-True,standard,blitz,resign,,black,vamsiannipindi,symbols.extinction,vamsiannipindi,BelyakovBogdan,activity.1st-place-medal
+True,standard,blitz,resign,,black,vamsiannipindi,nature.fire,vamsiannipindi,BelyakovBogdan,activity.1st-place-medal
 True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,adelkazan113,
 True,standard,rapid,mate,,black,springbreak2013,,springbreak2013,BelyakovBogdan,activity.1st-place-medal
 True,standard,rapid,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,Normal_one,
@@ -34219,7 +34208,7 @@ True,standard,blitz,draw,,,BelyakovBogdan,activity.1st-place-medal,belyakovbogda
 True,standard,blitz,resign,,white,satunnainen,smileys.ghost,satunnainen,BelyakovBogdan,activity.1st-place-medal
 True,standard,blitz,mate,,black,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,Oslo1048,symbols.red-heart
 True,standard,blitz,resign,,white,tamojerry,,tamojerry,BelyakovBogdan,activity.1st-place-medal
-True,standard,blitz,draw,,,Mikevs,nature.cat-face,mikevs,BelyakovBogdan,activity.1st-place-medal
+True,standard,blitz,draw,,,Mikevs,nature.black-cat,mikevs,BelyakovBogdan,activity.1st-place-medal
 True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,Mahan_83,
 True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,Robo_jet,objects.crossed-swords
 True,standard,blitz,resign,,black,MereseBerserkNhi,symbols.trident-emblem,mereseberserknhi,BelyakovBogdan,activity.1st-place-medal
