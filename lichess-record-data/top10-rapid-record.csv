@@ -16672,6 +16672,7 @@ True,standard,bullet,draw,,,Tunartank,,tunartank,Tuzakli_Egitim,nature.dog-face
 True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Tunartank,
 True,standard,bullet,outoftime,,white,Tunartank,,tunartank,Tuzakli_Egitim,nature.dog-face
 True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Tunartank,
+True,standard,blitz,outoftime,,white,oyoy23,,oyoy23,cjota95,
 True,standard,blitz,mate,,white,cjota95,,cjota95,sanjaypune,
 True,standard,blitz,resign,,black,MassterofMayhem,,massterofmayhem,cjota95,
 True,standard,blitz,resign,,white,cjota95,,cjota95,satlan,
@@ -23765,12 +23766,6 @@ True,standard,bullet,resign,,black,JBakker,,jbakker,vvchessli,smileys.cold-face
 True,standard,bullet,outoftime,,black,vvchessli,smileys.cold-face,vvchessli,Ernur2008,symbols.triangular-flag
 True,standard,bullet,mate,,black,vvchessli,smileys.cold-face,vvchessli,Darylp_baguio,nature.fire
 True,standard,bullet,resign,,white,KTTL-NguyenNamKiet11,smileys.skull-and-crossbones,kttl-nguyennamkiet11,vvchessli,smileys.cold-face
-True,standard,bullet,outoftime,,white,alichess23,,alichess23,vvchessli,smileys.cold-face
-True,standard,bullet,outoftime,,white,vvchessli,smileys.cold-face,vvchessli,changingiswinning,
-True,standard,bullet,resign,,black,KTTL-NguyenNamKiet11,smileys.skull-and-crossbones,kttl-nguyennamkiet11,vvchessli,smileys.cold-face
-True,standard,bullet,outoftime,,white,vvchessli,smileys.cold-face,vvchessli,changingiswinning,
-True,standard,bullet,stalemate,,,vvchessli,smileys.cold-face,vvchessli,Banelevich,people.person-lifting-weights-dark-skin-tone
-True,standard,bullet,mate,,black,KTTL-NguyenNamKiet11,smileys.skull-and-crossbones,kttl-nguyennamkiet11,vvchessli,smileys.cold-face
 True,standard,classical,resign,,white,Konnov_Oleg,,konnov_oleg,Tipsntaps,
 True,standard,classical,resign,,white,Konnov_Oleg,,konnov_oleg,kavianiplaysblitz,
 True,standard,classical,resign,,black,habsnichtgesehen,,habsnichtgesehen,Konnov_Oleg,
