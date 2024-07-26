@@ -59,7 +59,7 @@ def getrecord_top10(chess_category) -> pd.DataFrame:
         topplayers_games = pd.concat([topplayers_games, games_df])
 
     # only choose useful index
-    cols_selection = list(range(1,4)) + list(range(7,8)) + list(range(9,11)) + list(range(12,13)) + list(range(14,16)) + list(range(19,21))
+    cols_selection = list(range(1,4)) + list(range(7,8)) + list(range(9,11)) + list(range(13,15)) + list(range(17,20)) + list(range(24, 25))
     return topplayers_games.iloc[:, cols_selection]
 
 def save_record(dataframe, filename):
