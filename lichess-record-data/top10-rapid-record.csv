@@ -1227,7 +1227,7 @@ False,fromPosition,correspondence,mate,4k3/pp1ppppp/8/8/8/8/PPPPPPPP/4K3 w - - 0
 False,standard,correspondence,mate,,white,GM,activity.martial-arts-uniform,True,3.0,,
 False,fromPosition,rapid,draw,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,,,,,,,drvitman
 False,fromPosition,rapid,resign,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,black,,,True,,,drvitman
-False,fromPosition,rapid,mate,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,black,,smileys.face-with-rolling-eyes,,,,drvitman
+False,fromPosition,rapid,mate,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,black,,nature.comet,,,,drvitman
 False,fromPosition,rapid,resign,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,white,,,True,,,drvitman
 False,fromPosition,rapid,resign,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,black,,people.victory-hand,True,,,drvitman
 False,fromPosition,rapid,resign,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,black,,,,,,drvitman
@@ -5231,7 +5231,7 @@ False,standard,bullet,resign,,black,,,,,,mrkooshaj
 False,standard,ultraBullet,outoftime,,black,,activity.lichess-ultrabullet,,,,mrkooshaj
 False,standard,ultraBullet,outoftime,,black,CM,smileys.smiling-face-with-horns,,,,brilliantjoe
 False,standard,ultraBullet,mate,,black,,activity.lichess-ultrabullet,,,,mrkooshaj
-True,kingOfTheHill,bullet,variantEnd,,white,,travel-places.oncoming-police-car,,,True,mrkooshaj
+True,kingOfTheHill,bullet,variantEnd,,white,,travel-places.oncoming-police-car,,,,mrkooshaj
 True,chess960,bullet,mate,rqnkbrnb/pppppppp/8/8/8/8/PPPPPPPP/RQNKBRNB w KQkq - 0 1,black,,,,,,mrkooshaj
 True,chess960,bullet,outoftime,rqnkbrnb/pppppppp/8/8/8/8/PPPPPPPP/RQNKBRNB w KQkq - 0 1,,CM,smileys.smiling-face-with-horns,,,,sonnyslo
 False,standard,bullet,mate,,black,,,,,,mrkooshaj
@@ -6580,21 +6580,21 @@ False,standard,bullet,outoftime,,black,IM,,,,,mrkooshaj
 False,standard,bullet,resign,,black,CM,smileys.smiling-face-with-horns,,,,adypady
 True,atomic,blitz,resign,,white,,,,,,mrkooshaj
 True,kingOfTheHill,bullet,variantEnd,,white,CM,smileys.smiling-face-with-horns,,,,ford_crown_vic
-True,kingOfTheHill,bullet,variantEnd,,black,,travel-places.oncoming-police-car,,,True,mrkooshaj
+True,kingOfTheHill,bullet,variantEnd,,black,,travel-places.oncoming-police-car,,,,mrkooshaj
 True,kingOfTheHill,bullet,mate,,white,CM,smileys.smiling-face-with-horns,,,,ford_crown_vic
-True,kingOfTheHill,bullet,variantEnd,,black,,travel-places.oncoming-police-car,,,True,mrkooshaj
+True,kingOfTheHill,bullet,variantEnd,,black,,travel-places.oncoming-police-car,,,,mrkooshaj
 True,kingOfTheHill,bullet,mate,,white,CM,smileys.smiling-face-with-horns,,,,ford_crown_vic
-True,kingOfTheHill,bullet,variantEnd,,white,,travel-places.oncoming-police-car,,,True,mrkooshaj
+True,kingOfTheHill,bullet,variantEnd,,white,,travel-places.oncoming-police-car,,,,mrkooshaj
 True,kingOfTheHill,bullet,variantEnd,,white,CM,smileys.smiling-face-with-horns,,,,ford_crown_vic
-True,kingOfTheHill,bullet,outoftime,,black,,travel-places.oncoming-police-car,,,True,mrkooshaj
+True,kingOfTheHill,bullet,outoftime,,black,,travel-places.oncoming-police-car,,,,mrkooshaj
 True,kingOfTheHill,bullet,draw,,,CM,smileys.smiling-face-with-horns,,,,ford_crown_vic
-True,kingOfTheHill,bullet,variantEnd,,white,,travel-places.oncoming-police-car,,,True,mrkooshaj
+True,kingOfTheHill,bullet,variantEnd,,white,,travel-places.oncoming-police-car,,,,mrkooshaj
 True,kingOfTheHill,bullet,mate,,white,CM,smileys.smiling-face-with-horns,,,,ford_crown_vic
-True,kingOfTheHill,bullet,variantEnd,,black,,travel-places.oncoming-police-car,,,True,mrkooshaj
+True,kingOfTheHill,bullet,variantEnd,,black,,travel-places.oncoming-police-car,,,,mrkooshaj
 True,kingOfTheHill,bullet,variantEnd,,black,CM,smileys.smiling-face-with-horns,,,,ford_crown_vic
-True,kingOfTheHill,bullet,outoftime,,black,,travel-places.oncoming-police-car,,,True,mrkooshaj
+True,kingOfTheHill,bullet,outoftime,,black,,travel-places.oncoming-police-car,,,,mrkooshaj
 True,kingOfTheHill,bullet,mate,,white,CM,smileys.smiling-face-with-horns,,,,ford_crown_vic
-True,kingOfTheHill,bullet,resign,,white,,travel-places.oncoming-police-car,,,True,mrkooshaj
+True,kingOfTheHill,bullet,resign,,white,,travel-places.oncoming-police-car,,,,mrkooshaj
 True,chess960,bullet,mate,qnnbbrkr/pppppppp/8/8/8/8/PPPPPPPP/QNNBBRKR w KQkq - 0 1,black,,travel-places.globe-showing-asia-australia,,,,mrkooshaj
 True,chess960,bullet,outoftime,qnnbbrkr/pppppppp/8/8/8/8/PPPPPPPP/QNNBBRKR w KQkq - 0 1,white,CM,smileys.smiling-face-with-horns,,,,adham_ibrahim_cube
 True,chess960,bullet,mate,rbnqbnkr/pppppppp/8/8/8/8/PPPPPPPP/RBNQBNKR w KQkq - 0 1,white,,travel-places.globe-showing-asia-australia,,,,mrkooshaj
@@ -9094,10 +9094,6 @@ False,standard,bullet,outoftime,,white,CM,smileys.smiling-face-with-horns,,,,rem
 False,standard,bullet,outoftime,,black,,,,,,mrkooshaj
 True,standard,bullet,outoftime,,white,CM,smileys.smiling-face-with-horns,,,,reshetkov_kirill
 True,standard,bullet,resign,,black,,,,,,mrkooshaj
-True,standard,blitz,resign,,white,CM,smileys.smiling-face-with-horns,,,,benkonian
-True,standard,blitz,resign,,black,IM,people.flexed-biceps,,,,mrkooshaj
-True,standard,blitz,resign,,black,CM,smileys.smiling-face-with-horns,,,,harsha15
-True,standard,blitz,resign,,black,FM,nature.cloud-with-lightning,,,,mrkooshaj
 False,standard,rapid,mate,,black,,,,,,tuzakli_egitim
 True,standard,rapid,draw,,,FM,nature.dog-face,,,,impregnable_rock
 True,standard,bullet,outoftime,,white,FM,nature.dog-face,,,,corre_por_tu_vida
@@ -11979,9 +11975,9 @@ True,standard,ultraBullet,outoftime,,black,FM,nature.dog-face,,,,ne_pochuvstvova
 False,standard,rapid,draw,,,FM,nature.dog-face,,8.0,,
 False,standard,rapid,resign,,white,,,,,,tuzakli_egitim
 True,kingOfTheHill,bullet,mate,,white,FM,nature.dog-face,,,,ford_crown_vic
-True,kingOfTheHill,bullet,variantEnd,,white,,travel-places.oncoming-police-car,,,True,tuzakli_egitim
+True,kingOfTheHill,bullet,variantEnd,,white,,travel-places.oncoming-police-car,,,,tuzakli_egitim
 True,kingOfTheHill,bullet,outoftime,,white,FM,nature.dog-face,,,,ford_crown_vic
-True,kingOfTheHill,bullet,variantEnd,,white,,travel-places.oncoming-police-car,,,True,tuzakli_egitim
+True,kingOfTheHill,bullet,variantEnd,,white,,travel-places.oncoming-police-car,,,,tuzakli_egitim
 True,standard,bullet,resign,,black,,,,,,tuzakli_egitim
 True,standard,bullet,outoftime,,black,FM,nature.dog-face,,,,idelaria
 True,standard,bullet,outoftime,,black,,,,,,tuzakli_egitim
@@ -31416,7 +31412,7 @@ True,standard,rapid,resign,,white,IM,activity.1st-place-medal,,,,tellmedoyoubl33
 True,standard,rapid,resign,,black,,,True,,,belyakovbogdan
 True,standard,blitz,outoftime,,white,,,,,,belyakovbogdan
 True,standard,blitz,mate,,white,IM,activity.1st-place-medal,,,,enhbayra
-True,standard,blitz,resign,,white,,nature.high-voltage,,,True,belyakovbogdan
+True,standard,blitz,resign,,white,,nature.high-voltage,,,,belyakovbogdan
 True,standard,blitz,resign,,white,IM,activity.1st-place-medal,,,,twinbanana
 True,standard,blitz,outoftime,,black,IM,,,,,belyakovbogdan
 True,standard,blitz,mate,,white,IM,activity.1st-place-medal,,,,maskulinman
