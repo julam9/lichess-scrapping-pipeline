@@ -4629,6 +4629,7 @@ False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB
 False,fromPosition,correspondence,resign,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQq - 0 1,black,DrVitman,activity.martial-arts-uniform,drvitman,,
 False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQq - 0 1,white,DrVitman,activity.martial-arts-uniform,drvitman,,
 False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQq - 0 1,black,DrVitman,activity.martial-arts-uniform,drvitman,,
+True,standard,blitz,mate,,white,Roman_Yanchenko,,roman_yanchenko,,8.0
 True,standard,blitz,mate,,white,Roman_Yanchenko,,roman_yanchenko,,0.0
 True,standard,blitz,resign,,white,Andrey_Klymchuk,,andrey_klymchuk,,8.0
 True,standard,blitz,mate,,white,Roman_Yanchenko,,roman_yanchenko,,4.0
@@ -11356,8 +11357,6 @@ False,standard,bullet,mate,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrko
 False,standard,bullet,outoftime,,white,Remilia-Suika,,remilia-suika,,
 False,standard,bullet,outoftime,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,,
 False,standard,bullet,outoftime,,black,Remilia-Suika,,remilia-suika,,
-True,standard,bullet,outoftime,,white,MrKooshaJ,smileys.smiling-face-with-horns,mrkooshaj,,6.0
-True,standard,bullet,resign,,black,DarmenS,,darmens,,-4.0
 False,standard,rapid,mate,,black,,,,,
 True,standard,rapid,draw,,,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,-2.0
 True,standard,bullet,outoftime,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,,3.0
@@ -33602,7 +33601,7 @@ True,standard,rapid,draw,,,BelyakovBogdan,activity.1st-place-medal,belyakovbogda
 True,standard,rapid,resign,,black,Nikita272005,,nikita272005,,-3.0
 True,standard,bullet,outoftime,,black,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,,-6.0
 True,standard,bullet,mate,,black,B1zos,,b1zos,,-3.0
-True,standard,bullet,resign,,white,roman_dobronovskyi,smileys.alien,roman_dobronovskyi,,7.0
+True,standard,bullet,resign,,white,roman_dobronovskyi,,roman_dobronovskyi,,7.0
 True,standard,bullet,mate,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,,7.0
 True,standard,bullet,resign,,black,Chessmatus,,chessmatus,,-4.0
 True,standard,bullet,outoftime,,white,say_my_name_quietly,,say_my_name_quietly,,5.0
