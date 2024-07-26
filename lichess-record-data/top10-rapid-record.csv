@@ -6899,6 +6899,8 @@ True,standard,blitz,outoftime,,black,FM,,,,Roman_Yanchenko,0.0
 True,standard,blitz,resign,,black,FM,,,,HelgeA,0.0
 True,standard,blitz,draw,,,CM,,,,Roman_Yanchenko,0.0
 True,standard,blitz,outoftime,,black,FM,,,,Jb2mix,0.0
+True,standard,rapid,mate,,black,,,True,,MrKooshaJ,0.0
+True,standard,rapid,draw,,,CM,smileys.smiling-face-with-horns,,,KoT_Tropical,0.0
 True,chess960,bullet,resign,rbnkrnbq/pppppppp/8/8/8/8/PPPPPPPP/RBNKRNBQ w KQkq - 0 1,white,GM,,,,MrKooshaJ,0.0
 True,standard,rapid,mate,,black,,,,,MrKooshaJ,0.0
 True,standard,rapid,mate,,white,CM,smileys.smiling-face-with-horns,,,eiadamr625,0.0
@@ -16642,11 +16644,6 @@ True,standard,bullet,resign,,black,FM,nature.dog-face,,,Hausigel,0.0
 True,standard,bullet,resign,,white,FM,nature.dog-face,,,Anchkaaaaa,0.0
 True,standard,bullet,stalemate,,,FM,nature.dog-face,,,Anchkaaaaa,0.0
 True,standard,bullet,draw,,,WFM,smileys.kissing-cat,,,Tuzakli_Egitim,0.0
-True,standard,bullet,outoftime,,white,FM,nature.dog-face,,,Tunartank,0.0
-True,standard,bullet,resign,,black,,,,,Tuzakli_Egitim,0.0
-True,standard,bullet,resign,,white,FM,nature.dog-face,,,Tunartank,0.0
-True,standard,bullet,outoftime,,white,,,,,Tuzakli_Egitim,0.0
-True,standard,bullet,outoftime,,white,FM,nature.dog-face,,,Tunartank,0.0
 True,standard,classical,outoftime,,white,,,,,cjota95,0.0
 True,standard,blitz,outoftime,,white,,,,,cjota95,0.0
 True,standard,blitz,mate,,white,GM,,,,sanjaypune,0.0
@@ -33156,9 +33153,6 @@ True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,CheeseBurguer1234,
 True,standard,rapid,resign,,black,,,,,Aborigen100500,0.0
 True,standard,rapid,resign,,black,,,,,Aborigen100500,0.0
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,Rimuru_Tempest1231,0.0
-True,standard,rapid,resign,,white,,,,,Aborigen100500,0.0
-True,standard,rapid,draw,,,NM,travel-places.sailboat,,,sotirakis,0.0
-True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,Chesssknock,0.0
 True,standard,bullet,draw,,,IM,activity.1st-place-medal,,,BeyEmirhan,0.0
 True,standard,blitz,resign,,white,IM,activity.1st-place-medal,,,yuriy76,2.0
 True,standard,blitz,mate,,white,FM,,,,BelyakovBogdan,2.0
@@ -34575,6 +34569,10 @@ True,standard,blitz,resign,,white,IM,activity.1st-place-medal,True,,SemenPuzyrev
 True,standard,blitz,resign,,black,,nature.scorpion,,,BelyakovBogdan,2.0
 True,standard,rapid,resign,,black,,,,,BelyakovBogdan,0.0
 True,standard,rapid,resign,,white,IM,activity.1st-place-medal,True,,schleb,0.0
+True,standard,blitz,outoftime,,white,IM,,,,Sushila1,0.0
+True,standard,blitz,resign,,black,,,,,datajunkie,0.0
+True,standard,blitz,resign,,white,IM,,,,AlexSt_09,0.0
+True,standard,rapid,resign,,black,,,,,datajunkie,0.0
 True,standard,rapid,draw,,,IM,,,,JiRoS99,0.0
 True,standard,rapid,draw,,,,,,,datajunkie,0.0
 True,standard,blitz,outoftime,,black,,,,,datajunkie,0.0
