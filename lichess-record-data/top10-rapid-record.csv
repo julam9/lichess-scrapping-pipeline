@@ -1964,7 +1964,7 @@ False,fromPosition,correspondence,mate,2b1k3/pppp1ppp/8/8/8/8/PPPPPPPP/4K2R w K 
 False,fromPosition,correspondence,mate,2b1k3/pppp1ppp/8/8/8/8/PPPPPPPP/4K2R w K - 0 1,white,GM,activity.martial-arts-uniform,True,3.0,,
 False,standard,blitz,resign,,black,,,True,,,drvitman
 False,standard,blitz,resign,,black,,smileys.ghost,,,,drvitman
-False,standard,blitz,resign,,black,,people.flexed-biceps,,,,drvitman
+False,standard,blitz,resign,,black,,symbols.linux-tux-penguin,,,,drvitman
 False,standard,blitz,resign,,white,GM,activity.martial-arts-uniform,,,,stefen888888gg
 False,standard,blitz,mate,,white,GM,activity.martial-arts-uniform,,,,ark69-2
 False,standard,blitz,resign,,white,GM,activity.martial-arts-uniform,,,,ritwik1972
@@ -9098,16 +9098,6 @@ True,standard,blitz,resign,,white,CM,smileys.smiling-face-with-horns,,,,benkonia
 True,standard,blitz,resign,,black,IM,people.flexed-biceps,,,,mrkooshaj
 True,standard,blitz,resign,,black,CM,smileys.smiling-face-with-horns,,,,harsha15
 True,standard,blitz,resign,,black,FM,nature.cloud-with-lightning,,,,mrkooshaj
-True,standard,blitz,mate,,white,CM,smileys.smiling-face-with-horns,,,,harsha15
-True,standard,blitz,mate,,white,IM,,,,,mrkooshaj
-True,standard,blitz,resign,,black,CM,smileys.smiling-face-with-horns,,,,enesmaruflu
-True,standard,blitz,draw,,,CM,,,,,mrkooshaj
-True,standard,blitz,resign,,white,CM,smileys.smiling-face-with-horns,,,,guillembaches
-True,standard,blitz,resign,,black,CM,,,,,mrkooshaj
-True,standard,blitz,outoftime,,black,CM,smileys.smiling-face-with-horns,,,,elda64
-True,standard,blitz,resign,,white,IM,,,,,mrkooshaj
-True,standard,blitz,resign,,white,CM,smileys.smiling-face-with-horns,,,,jaqueline142
-True,standard,blitz,resign,,white,GM,,,,True,mrkooshaj
 False,standard,rapid,mate,,black,,,,,,tuzakli_egitim
 True,standard,rapid,draw,,,FM,nature.dog-face,,,,impregnable_rock
 True,standard,bullet,outoftime,,white,FM,nature.dog-face,,,,corre_por_tu_vida
@@ -12618,7 +12608,7 @@ True,standard,bullet,resign,,black,FM,nature.dog-face,,,,chaoxiangganwei15
 True,standard,bullet,mate,,white,,,,,,tuzakli_egitim
 True,standard,bullet,mate,,black,FM,nature.dog-face,,,,aryan_tamadon
 True,standard,bullet,mate,,white,FM,nature.dog-face,,,,dawid1398
-True,standard,bullet,resign,,white,IM,smileys.face-with-raised-eyebrow,,,True,tuzakli_egitim
+True,standard,bullet,resign,,white,IM,smileys.face-with-raised-eyebrow,,,,tuzakli_egitim
 True,standard,bullet,resign,,white,NM,symbols.move-brilliant,,,,tuzakli_egitim
 True,standard,bullet,mate,,black,FM,,,,,tuzakli_egitim
 True,standard,bullet,mate,,white,IM,,,,,tuzakli_egitim
@@ -21450,7 +21440,6 @@ True,standard,bullet,outoftime,,white,,activity.lichess-berserk,,,,vvchessli
 True,standard,bullet,outoftime,,black,IM,smileys.cold-face,,,,teddybear2005
 True,standard,bullet,draw,,,NM,,,,True,vvchessli
 True,standard,bullet,resign,,black,,smileys.cold-face,,,,vvchessli
-True,standard,rapid,draw,,,IM,smileys.cold-face,,,,bestkeptsecret
 True,standard,blitz,outoftime,,white,,objects.crossed-swords,,,,konnov_oleg
 True,standard,blitz,outoftime,,white,,,,,,konnov_oleg
 True,standard,blitz,resign,,white,,,,,,gbhustler
@@ -21859,7 +21848,7 @@ True,standard,blitz,outoftime,,white,,,,,,konnov_oleg
 True,standard,blitz,resign,,white,,,,,,midday_shadow
 True,standard,blitz,resign,,black,,smileys.skull-and-crossbones,,,,konnov_oleg
 True,standard,rapid,mate,,white,,,,,,tiredemocrat
-True,standard,blitz,resign,,black,,symbols.heart-on-fire,,,,konnov_oleg
+True,standard,blitz,resign,,black,,activity.lichess-rapid,,,,konnov_oleg
 True,standard,blitz,resign,,black,,,,,,konnov_oleg
 True,standard,blitz,outoftime,,white,,,,,,andreikazan1
 True,standard,blitz,mate,,black,,nature.cat-face,,,,konnov_oleg
@@ -29110,11 +29099,11 @@ True,standard,rapid,outoftime,,black,NM,travel-places.sailboat,,,,cartelane
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,,oldman1945
 True,standard,rapid,resign,,black,,,,,,aborigen100500
 True,standard,rapid,resign,,white,,smileys.angry-face-with-horns,,,,aborigen100500
-True,standard,rapid,resign,,black,,symbols.heart-on-fire,,,,aborigen100500
+True,standard,rapid,resign,,black,,activity.lichess-rapid,,,,aborigen100500
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,,davizent
-True,standard,rapid,resign,,black,,symbols.heart-on-fire,,,,aborigen100500
+True,standard,rapid,resign,,black,,activity.lichess-rapid,,,,aborigen100500
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,,davizent
-True,standard,rapid,resign,,black,,symbols.heart-on-fire,,,,aborigen100500
+True,standard,rapid,resign,,black,,activity.lichess-rapid,,,,aborigen100500
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,,davizent
 True,standard,rapid,resign,,white,,,,,,aborigen100500
 True,standard,rapid,mate,,white,NM,travel-places.sailboat,,,,bagii_bagii
@@ -29133,7 +29122,7 @@ True,standard,rapid,resign,,white,,,,,,aborigen100500
 True,standard,rapid,resign,,black,NM,travel-places.sailboat,,,,chessstrawberry2020
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,,shohruh2006
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,,stallion28
-True,standard,rapid,resign,,black,,symbols.heart-on-fire,,,,aborigen100500
+True,standard,rapid,resign,,black,,activity.lichess-rapid,,,,aborigen100500
 True,standard,rapid,resign,,black,,symbols.trade-mark,,,,aborigen100500
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,,zukertoriano
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,,amateur2500
@@ -30008,7 +29997,7 @@ True,standard,blitz,mate,,white,NM,travel-places.sailboat,,,,renier07
 True,standard,blitz,resign,,white,NM,travel-places.sailboat,,,,lybchenko_oleg
 True,standard,blitz,resign,,white,NM,travel-places.sailboat,,,,ovchinnikov_vsevolod
 True,standard,blitz,resign,,white,NM,travel-places.sailboat,,,,edward66
-True,standard,blitz,outoftime,,white,IM,smileys.face-with-raised-eyebrow,,,True,aborigen100500
+True,standard,blitz,outoftime,,white,IM,smileys.face-with-raised-eyebrow,,,,aborigen100500
 True,standard,blitz,resign,,black,,,,,,aborigen100500
 True,standard,blitz,outoftime,,black,NM,travel-places.sailboat,,,,vlahovhrvojecro
 True,standard,blitz,outoftime,,black,,,,,,aborigen100500
@@ -30856,11 +30845,6 @@ True,standard,rapid,outoftime,,black,NM,travel-places.sailboat,,,,mostafad4d5
 True,standard,rapid,outoftime,,black,,,,,,aborigen100500
 True,standard,rapid,draw,,,,,,,,aborigen100500
 True,standard,rapid,outoftime,,black,NM,travel-places.sailboat,,,,rrking24
-True,standard,rapid,outoftime,,black,,,,,,aborigen100500
-True,standard,rapid,outoftime,,white,NM,travel-places.sailboat,,,,alireza11ymm
-True,standard,rapid,outoftime,,white,,symbols.diamond-with-a-dot,,,,aborigen100500
-True,standard,rapid,mate,,white,NM,travel-places.sailboat,,,,blitz16
-True,standard,rapid,resign,,white,,food-drink.kitchen-knife,,,,aborigen100500
 True,standard,bullet,draw,,,IM,activity.1st-place-medal,,,,beyemirhan
 True,standard,blitz,resign,,white,IM,activity.1st-place-medal,,,,yuriy76
 True,standard,blitz,mate,,white,FM,,,,,belyakovbogdan
