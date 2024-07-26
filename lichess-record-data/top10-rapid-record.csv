@@ -870,7 +870,7 @@ False,standard,blitz,outoftime,,white,DrVitman,activity.martial-arts-uniform,drv
 False,standard,blitz,resign,,white,DrVitman,activity.martial-arts-uniform,drvitman,ErikUsmanov,activity.lichess-classical
 False,standard,blitz,resign,,white,DrVitman,activity.martial-arts-uniform,drvitman,Magicarcher1990,
 False,standard,blitz,outoftime,,white,DrVitman,activity.martial-arts-uniform,drvitman,PaulSAV,activity.chess
-False,standard,blitz,resign,,white,DrVitman,activity.martial-arts-uniform,drvitman,D_A_N_I_Y_A_R,food-drink.pear
+False,standard,blitz,resign,,white,DrVitman,activity.martial-arts-uniform,drvitman,D_A_N_I_Y_A_R,smileys.cowboy-hat-face
 False,standard,blitz,outoftime,,white,DrVitman,activity.martial-arts-uniform,drvitman,alekhinealexandar,objects.shield
 False,standard,blitz,resign,,white,DrVitman,activity.martial-arts-uniform,drvitman,Lightning_God07,smileys.ghost
 False,standard,blitz,resign,,white,DrVitman,activity.martial-arts-uniform,drvitman,gradybobbydon14,activity.chess-pawn
@@ -985,7 +985,7 @@ False,fromPosition,correspondence,mate,2b1k3/2pppppp/8/8/8/8/PPPPPPPP/R3K3 w - -
 False,fromPosition,correspondence,draw,2b1k3/pppppp1p/8/8/8/8/PPPPPPPP/R3K3 w - - 0 1,,DrVitman,activity.martial-arts-uniform,drvitman,,
 False,fromPosition,correspondence,draw,2b1k3/pppppp1p/8/8/8/8/PPPPPPPP/R3K3 w - - 0 1,,DrVitman,activity.martial-arts-uniform,drvitman,,
 False,standard,blitz,mate,,white,DrVitman,activity.martial-arts-uniform,drvitman,tetrafen,
-False,standard,blitz,outoftime,,white,DrVitman,activity.martial-arts-uniform,drvitman,D_A_N_I_Y_A_R,food-drink.pear
+False,standard,blitz,outoftime,,white,DrVitman,activity.martial-arts-uniform,drvitman,D_A_N_I_Y_A_R,smileys.cowboy-hat-face
 False,standard,blitz,mate,,white,DrVitman,activity.martial-arts-uniform,drvitman,ErikUsmanov,activity.lichess-classical
 False,standard,blitz,outoftime,,white,DrVitman,activity.martial-arts-uniform,drvitman,Exast3r,
 False,fromPosition,blitz,outoftime,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,black,SMHE066,,smhe066,DrVitman,activity.martial-arts-uniform
@@ -1149,7 +1149,7 @@ False,standard,blitz,outoftime,,white,DrVitman,activity.martial-arts-uniform,drv
 False,standard,blitz,outoftime,,white,DrVitman,activity.martial-arts-uniform,drvitman,RubiPengui,nature.penguin
 False,standard,blitz,mate,,white,DrVitman,activity.martial-arts-uniform,drvitman,MMark777,
 False,standard,blitz,outoftime,,white,DrVitman,activity.martial-arts-uniform,drvitman,I_Like_play32_chess,activity.lichess-rapid
-False,standard,blitz,mate,,white,DrVitman,activity.martial-arts-uniform,drvitman,D_A_N_I_Y_A_R,food-drink.pear
+False,standard,blitz,mate,,white,DrVitman,activity.martial-arts-uniform,drvitman,D_A_N_I_Y_A_R,smileys.cowboy-hat-face
 False,standard,blitz,resign,,white,DrVitman,activity.martial-arts-uniform,drvitman,andromeda-11,
 False,standard,blitz,draw,,,DrVitman,activity.martial-arts-uniform,drvitman,swimjt,
 False,standard,blitz,resign,,white,DrVitman,activity.martial-arts-uniform,drvitman,Ayanasthana,
@@ -13472,7 +13472,7 @@ True,standard,bullet,resign,,black,canc3111,symbols.hundred-points,canc3111,Tuza
 True,standard,bullet,outoftime,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,canc3111,symbols.hundred-points
 True,standard,bullet,stalemate,,,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,SomeMightSay,
 True,standard,bullet,resign,,white,agelar1991,,agelar1991,Tuzakli_Egitim,nature.dog-face
-True,standard,bullet,resign,,black,Samid2002,objects.laptop,samid2002,Tuzakli_Egitim,nature.dog-face
+True,standard,bullet,resign,,black,Samid2002,,samid2002,Tuzakli_Egitim,nature.dog-face
 True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Xyr4,
 True,standard,bullet,outoftime,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,FARMVlLLE,
 True,standard,bullet,mate,,black,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Argonavtik,
@@ -14289,7 +14289,7 @@ True,standard,bullet,resign,,black,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim
 True,standard,bullet,mate,,black,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Didici12,
 True,standard,bullet,mate,,white,Didici12,,didici12,Tuzakli_Egitim,nature.dog-face
 True,standard,bullet,outoftime,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Didici12,
-True,standard,bullet,outoftime,,,Samid2002,objects.laptop,samid2002,Tuzakli_Egitim,nature.dog-face
+True,standard,bullet,outoftime,,,Samid2002,,samid2002,Tuzakli_Egitim,nature.dog-face
 True,standard,bullet,mate,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,BulletTrainTo2950,
 True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,GUNNE_USER,symbols.no-one-under-eighteen
 True,standard,bullet,outoftime,,black,idelaria,,idelaria,Tuzakli_Egitim,nature.dog-face
@@ -14702,8 +14702,8 @@ True,standard,bullet,resign,,black,Chesswarrior31,,chesswarrior31,Tuzakli_Egitim
 True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Chesswarrior31,
 True,standard,bullet,resign,,white,Chesswarrior31,,chesswarrior31,Tuzakli_Egitim,nature.dog-face
 True,standard,bullet,outoftime,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Me77i,
-True,standard,bullet,outoftime,,white,Samid2002,objects.laptop,samid2002,Tuzakli_Egitim,nature.dog-face
-True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Samid2002,objects.laptop
+True,standard,bullet,outoftime,,white,Samid2002,,samid2002,Tuzakli_Egitim,nature.dog-face
+True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Samid2002,
 True,standard,bullet,mate,,black,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,SiroglanTalibov,
 True,standard,bullet,resign,,white,SiroglanTalibov,,siroglantalibov,Tuzakli_Egitim,nature.dog-face
 True,standard,bullet,draw,,,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,SiroglanTalibov,
@@ -14794,7 +14794,7 @@ True,standard,bullet,outoftime,,,TRIDEM,symbols.passport-control,tridem,Tuzakli_
 True,standard,blitz,resign,,black,NincsPalinka,,nincspalinka,Tuzakli_Egitim,nature.dog-face
 True,standard,bullet,resign,,black,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,L_oChIrBaT,
 True,standard,bullet,mate,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Predator_Shark,
-True,standard,bullet,outoftime,,black,Samid2002,objects.laptop,samid2002,Tuzakli_Egitim,nature.dog-face
+True,standard,bullet,outoftime,,black,Samid2002,,samid2002,Tuzakli_Egitim,nature.dog-face
 True,standard,bullet,outoftime,,black,alreadybroken23,activity.lichess-berserk,alreadybroken23,Tuzakli_Egitim,nature.dog-face
 True,standard,bullet,outoftime,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,alreadybroken23,activity.lichess-berserk
 True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,alreadybroken23,activity.lichess-berserk
@@ -16667,11 +16667,7 @@ True,standard,bullet,resign,,black,Tunartank,,tunartank,Tuzakli_Egitim,nature.do
 True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Tunartank,
 True,standard,bullet,outoftime,,white,Tunartank,,tunartank,Tuzakli_Egitim,nature.dog-face
 True,standard,bullet,outoftime,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Tunartank,
-True,standard,bullet,outoftime,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Tunartank,
-True,standard,bullet,draw,,,Tunartank,,tunartank,Tuzakli_Egitim,nature.dog-face
-True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Tunartank,
-True,standard,bullet,outoftime,,white,Tunartank,,tunartank,Tuzakli_Egitim,nature.dog-face
-True,standard,bullet,resign,,white,Tuzakli_Egitim,nature.dog-face,tuzakli_egitim,Tunartank,
+True,standard,classical,outoftime,,white,hung091000,,hung091000,cjota95,
 True,standard,blitz,outoftime,,white,oyoy23,,oyoy23,cjota95,
 True,standard,blitz,mate,,white,cjota95,,cjota95,sanjaypune,
 True,standard,blitz,resign,,black,MassterofMayhem,,massterofmayhem,cjota95,
@@ -17270,11 +17266,11 @@ True,crazyhouse,bullet,mate,,white,cjota95,,cjota95,bidahadusun,
 True,crazyhouse,bullet,resign,,black,bidahadusun,,bidahadusun,cjota95,
 True,standard,rapid,resign,,white,cjota95,,cjota95,mohaamedd21k,smileys.upside-down-face
 True,standard,blitz,resign,,white,cjota95,,cjota95,outoftheblu,
-True,standard,bullet,resign,,white,cjota95,,cjota95,Samid2002,objects.laptop
-True,standard,bullet,resign,,black,Samid2002,objects.laptop,samid2002,cjota95,
-True,standard,bullet,draw,,,cjota95,,cjota95,Samid2002,objects.laptop
-True,standard,bullet,resign,,black,Samid2002,objects.laptop,samid2002,cjota95,
-True,standard,bullet,resign,,white,cjota95,,cjota95,Samid2002,objects.laptop
+True,standard,bullet,resign,,white,cjota95,,cjota95,Samid2002,
+True,standard,bullet,resign,,black,Samid2002,,samid2002,cjota95,
+True,standard,bullet,draw,,,cjota95,,cjota95,Samid2002,
+True,standard,bullet,resign,,black,Samid2002,,samid2002,cjota95,
+True,standard,bullet,resign,,white,cjota95,,cjota95,Samid2002,
 True,standard,bullet,mate,,white,cjota95,,cjota95,Zhigalko_KMC,activity.chess-pawn
 True,standard,bullet,mate,,white,cjota95,,cjota95,PerennialEy3,people.eye
 True,standard,bullet,mate,,black,PerennialEy3,people.eye,perennialey3,cjota95,
@@ -17505,7 +17501,7 @@ True,standard,bullet,outoftime,,black,Hausigel,,hausigel,cjota95,
 True,standard,bullet,resign,,white,pdzei,,pdzei,cjota95,
 True,standard,bullet,resign,,black,cjota95,,cjota95,Reti_Chesspert,
 True,standard,bullet,resign,,white,trobe35,,trobe35,cjota95,
-True,standard,blitz,resign,,black,cjota95,,cjota95,Samid2002,objects.laptop
+True,standard,blitz,resign,,black,cjota95,,cjota95,Samid2002,
 True,standard,blitz,outoftime,,white,Sicilian_training,,sicilian_training,cjota95,
 True,standard,classical,resign,,black,Ghamas,,ghamas,cjota95,
 True,standard,classical,resign,,white,cjota95,,cjota95,Ghamas,
@@ -21081,7 +21077,7 @@ True,standard,blitz,resign,,white,Chesssknock,,chesssknock,vvchessli,smileys.col
 True,standard,blitz,resign,,white,vvchessli,smileys.cold-face,vvchessli,gmoneday,
 True,standard,blitz,resign,,black,MightBeDecent,,mightbedecent,vvchessli,smileys.cold-face
 True,standard,bullet,outoftime,,black,vvchessli,smileys.cold-face,vvchessli,ailtonn,
-True,standard,bullet,outoftime,,black,vvchessli,smileys.cold-face,vvchessli,Samid2002,objects.laptop
+True,standard,bullet,outoftime,,black,vvchessli,smileys.cold-face,vvchessli,Samid2002,
 True,standard,bullet,outoftime,,black,MeurendeBende,,meurendebende,vvchessli,smileys.cold-face
 True,standard,bullet,mate,,white,Oleg946,nature.turtle,oleg946,vvchessli,smileys.cold-face
 True,standard,bullet,resign,,black,vvchessli,smileys.cold-face,vvchessli,GoFar,activity.lichess-berserk
@@ -21374,8 +21370,8 @@ True,standard,bullet,resign,,black,Dungeonmaster00,,dungeonmaster00,vvchessli,sm
 True,standard,bullet,mate,,white,vvchessli,smileys.cold-face,vvchessli,Dungeonmaster00,
 True,standard,bullet,resign,,white,Dungeonmaster00,,dungeonmaster00,vvchessli,smileys.cold-face
 True,standard,bullet,resign,,black,vvchessli,smileys.cold-face,vvchessli,Dungeonmaster00,
-True,standard,bullet,resign,,black,vvchessli,smileys.cold-face,vvchessli,Samid2002,objects.laptop
-True,standard,bullet,resign,,black,Samid2002,objects.laptop,samid2002,vvchessli,smileys.cold-face
+True,standard,bullet,resign,,black,vvchessli,smileys.cold-face,vvchessli,Samid2002,
+True,standard,bullet,resign,,black,Samid2002,,samid2002,vvchessli,smileys.cold-face
 True,standard,bullet,mate,,white,vvchessli,smileys.cold-face,vvchessli,Popovich2020,
 True,standard,bullet,resign,,white,vvchessli,smileys.cold-face,vvchessli,A-Zubarev,
 True,standard,bullet,resign,,black,A-Zubarev,,a-zubarev,vvchessli,smileys.cold-face
@@ -22180,7 +22176,7 @@ True,standard,bullet,outoftime,,white,vvchessli,smileys.cold-face,vvchessli,chig
 True,standard,bullet,resign,,white,vvchessli,smileys.cold-face,vvchessli,removsky,
 True,standard,bullet,outoftime,,black,removsky,,removsky,vvchessli,smileys.cold-face
 True,standard,bullet,outoftime,,black,vvchessli,smileys.cold-face,vvchessli,nekitka0525,activity.lichess-berserk
-True,standard,bullet,outoftime,,black,vvchessli,smileys.cold-face,vvchessli,Samid2002,objects.laptop
+True,standard,bullet,outoftime,,black,vvchessli,smileys.cold-face,vvchessli,Samid2002,
 True,standard,bullet,draw,,,vvchessli,smileys.cold-face,vvchessli,luisguibla10,
 True,standard,bullet,mate,,black,galaxy42,,galaxy42,vvchessli,smileys.cold-face
 True,standard,bullet,mate,,white,Thunder-In-Paradise,,thunder-in-paradise,vvchessli,smileys.cold-face
@@ -22338,8 +22334,8 @@ True,standard,bullet,mate,,black,vvchessli,smileys.cold-face,vvchessli,ChernyukM
 True,standard,bullet,resign,,white,ChernyukMikhaiL,people.student-medium-light-skin-tone,chernyukmikhail,vvchessli,smileys.cold-face
 True,standard,bullet,resign,,black,vvchessli,smileys.cold-face,vvchessli,ChernyukMikhaiL,people.student-medium-light-skin-tone
 True,standard,bullet,resign,,white,forzamagnus,,forzamagnus,vvchessli,smileys.cold-face
-True,standard,bullet,resign,,black,vvchessli,smileys.cold-face,vvchessli,Samid2002,objects.laptop
-True,standard,bullet,outoftime,,white,Samid2002,objects.laptop,samid2002,vvchessli,smileys.cold-face
+True,standard,bullet,resign,,black,vvchessli,smileys.cold-face,vvchessli,Samid2002,
+True,standard,bullet,outoftime,,white,Samid2002,,samid2002,vvchessli,smileys.cold-face
 True,standard,bullet,outoftime,,white,vvchessli,smileys.cold-face,vvchessli,ChessCoach2416,
 True,standard,bullet,mate,,white,vvchessli,smileys.cold-face,vvchessli,Maletaja1,activity.xmas-lichess-horsey
 True,standard,bullet,outoftime,,black,Maletaja1,activity.xmas-lichess-horsey,maletaja1,vvchessli,smileys.cold-face
@@ -29583,9 +29579,6 @@ True,standard,blitz,resign,,black,shuriks91,,shuriks91,Konnov_Oleg,
 True,standard,blitz,mate,,black,a2m2011,,a2m2011,Konnov_Oleg,
 True,standard,blitz,resign,,black,Atahan-06,,atahan-06,Konnov_Oleg,
 True,standard,blitz,mate,,white,Argysh,,argysh,Konnov_Oleg,
-True,standard,blitz,outoftime,,white,ilqar_7474,nature.cat-face,ilqar_7474,Konnov_Oleg,
-True,standard,blitz,outoftime,,white,Konnov_Oleg,,konnov_oleg,ChainsOfFantasia,
-True,standard,blitz,resign,,black,Konnov_Oleg,,konnov_oleg,Sergienko1965,
 True,standard,rapid,resign,,white,Aborigen100500,travel-places.sailboat,aborigen100500,emandr,smileys.cold-face
 True,standard,rapid,resign,,black,Potapych18,,potapych18,Aborigen100500,travel-places.sailboat
 True,standard,rapid,outoftime,,black,Vasenko_stepan,,vasenko_stepan,Aborigen100500,travel-places.sailboat
@@ -33198,12 +33191,6 @@ True,standard,blitz,draw,,,Aborigen100500,travel-places.sailboat,aborigen100500,
 True,standard,blitz,resign,,black,filolog,,filolog,Aborigen100500,travel-places.sailboat
 True,standard,blitz,outoftime,,black,Aborigen100500,travel-places.sailboat,aborigen100500,filolog,
 True,standard,blitz,resign,,white,filolog,,filolog,Aborigen100500,travel-places.sailboat
-True,standard,blitz,resign,,white,Aborigen100500,travel-places.sailboat,aborigen100500,Tuka_Rentsen,
-True,standard,blitz,resign,,black,Tuka_Rentsen,,tuka_rentsen,Aborigen100500,travel-places.sailboat
-True,standard,blitz,resign,,white,Aborigen100500,travel-places.sailboat,aborigen100500,Tuka_Rentsen,
-True,standard,blitz,outoftime,,white,Turboplombir,food-drink.soft-ice-cream,turboplombir,Aborigen100500,travel-places.sailboat
-True,standard,blitz,outoftime,,white,IDISJUDA,nature.tiger,idisjuda,Aborigen100500,travel-places.sailboat
-True,standard,blitz,outoftime,,black,Aborigen100500,travel-places.sailboat,aborigen100500,IDISJUDA,nature.tiger
 True,standard,bullet,draw,,,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,BeyEmirhan,symbols.mending-heart
 True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,yuriy76,nature.scorpion
 True,standard,blitz,mate,,white,Roman_Yanchenko,,roman_yanchenko,BelyakovBogdan,activity.1st-place-medal
@@ -34620,6 +34607,7 @@ True,standard,blitz,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyak
 True,standard,blitz,resign,,black,yuriy76,nature.scorpion,yuriy76,BelyakovBogdan,activity.1st-place-medal
 True,standard,rapid,resign,,black,genn_00,,genn_00,BelyakovBogdan,activity.1st-place-medal
 True,standard,rapid,resign,,white,BelyakovBogdan,activity.1st-place-medal,belyakovbogdan,schleb,
+True,standard,rapid,draw,,,datajunkie,,datajunkie,JiRoS99,
 True,standard,rapid,draw,,,MateuszekR2011,,mateuszekr2011,datajunkie,
 True,standard,blitz,outoftime,,black,ZhohoFF,,zhohoff,datajunkie,
 True,standard,blitz,outoftime,,,buildorderbot,symbols.white-question-mark,buildorderbot,datajunkie,
