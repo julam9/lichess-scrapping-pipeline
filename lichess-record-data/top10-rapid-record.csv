@@ -1225,7 +1225,7 @@ False,fromPosition,correspondence,mate,4k3/pp1ppppp/8/8/8/8/PPPPPPPP/4K3 w - - 0
 False,standard,correspondence,mate,,white,GM,activity.martial-arts-uniform,True,3.0,,
 False,fromPosition,rapid,draw,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,,,,,,DrVitman,0.0
 False,fromPosition,rapid,resign,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,black,,,True,,DrVitman,0.0
-False,fromPosition,rapid,mate,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,black,,people.eyes,,,DrVitman,0.0
+False,fromPosition,rapid,mate,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,black,,smileys.face-with-rolling-eyes,,,DrVitman,0.0
 False,fromPosition,rapid,resign,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,white,,,True,,DrVitman,0.0
 False,fromPosition,rapid,resign,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,black,,people.victory-hand,True,,DrVitman,0.0
 False,fromPosition,rapid,resign,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,black,,,,,DrVitman,0.0
@@ -4627,8 +4627,6 @@ False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB
 False,fromPosition,correspondence,resign,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQq - 0 1,black,GM,activity.martial-arts-uniform,True,6.0,,
 False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQq - 0 1,white,GM,activity.martial-arts-uniform,True,8.0,,
 False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQq - 0 1,black,GM,activity.martial-arts-uniform,True,7.0,,
-False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQ - 0 1,black,GM,activity.martial-arts-uniform,True,6.0,,
-False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQ - 0 1,white,GM,activity.martial-arts-uniform,True,8.0,,
 True,standard,blitz,mate,,white,FM,,,,Affrica,2.0
 True,standard,blitz,resign,,white,FM,,,,Roman_Yanchenko,2.0
 True,standard,blitz,mate,,white,FM,,,,BelyakovBogdan,2.0
@@ -4744,7 +4742,7 @@ True,standard,blitz,draw,,,FM,,,,LadyLucky97,0.0
 True,standard,blitz,outoftime,,,,,,,Roman_Yanchenko,0.0
 True,standard,blitz,resign,,white,FM,,,,Venus1515,0.0
 True,standard,rapid,resign,,white,FM,,,,AParadiseLost,0.0
-True,standard,rapid,resign,,black,CM,nature.monkey,,,Roman_Yanchenko,0.0
+True,standard,rapid,resign,,black,CM,smileys.cold-face,,,Roman_Yanchenko,0.0
 True,standard,rapid,resign,,white,FM,,,,AParadiseLost,0.0
 True,standard,rapid,resign,,black,FM,,,,zD3stroy3r,0.0
 True,standard,blitz,mate,,black,FM,,,,MassterofMayhem,0.0
@@ -11379,7 +11377,6 @@ True,standard,blitz,resign,,white,IM,,,,MrKooshaJ,0.0
 True,standard,blitz,resign,,white,CM,smileys.smiling-face-with-horns,,,Jaqueline142,0.0
 True,standard,blitz,resign,,white,GM,,,,MrKooshaJ,0.0
 True,standard,bullet,resign,,white,CM,smileys.smiling-face-with-horns,,,aerodaktil,0.0
-True,standard,bullet,outoftime,,black,CM,smileys.smiling-face-with-horns,,,Khojayan-Vardan,0.0
 False,standard,rapid,mate,,black,,,,,Tuzakli_Egitim,3.0
 True,standard,rapid,draw,,,FM,nature.dog-face,,,Impregnable_Rock,0.0
 True,standard,bullet,outoftime,,white,FM,nature.dog-face,,,Corre_por_tu_vida,0.0
@@ -16644,6 +16641,7 @@ True,standard,bullet,resign,,black,FM,nature.dog-face,,,Hausigel,0.0
 True,standard,bullet,resign,,white,FM,nature.dog-face,,,Anchkaaaaa,0.0
 True,standard,bullet,stalemate,,,FM,nature.dog-face,,,Anchkaaaaa,0.0
 True,standard,bullet,draw,,,WFM,smileys.kissing-cat,,,Tuzakli_Egitim,0.0
+True,standard,classical,timeout,,white,GM,,,,NobodyJM,0.0
 True,standard,classical,outoftime,,white,,,,,cjota95,0.0
 True,standard,blitz,outoftime,,white,,,,,cjota95,0.0
 True,standard,blitz,mate,,white,GM,,,,sanjaypune,0.0
@@ -23768,7 +23766,7 @@ True,standard,blitz,outoftime,,black,,,,,notrashopenings,0.0
 True,standard,blitz,draw,,,,,,,Konnov_Oleg,0.0
 True,standard,blitz,draw,,,,,,,sotirakis,0.0
 True,standard,blitz,outoftime,,black,,,,,Juijop,0.0
-True,standard,blitz,mate,,black,,,,,Konnov_Oleg,0.0
+True,standard,blitz,mate,,black,,nature.rainbow,,,Konnov_Oleg,0.0
 True,standard,blitz,resign,,white,,,,,Pes_V_Sapogah,0.0
 True,standard,blitz,resign,,black,,smileys.shushing-face,,,Konnov_Oleg,0.0
 True,standard,blitz,resign,,white,,,,,ArtemChessRU,0.0
@@ -24912,7 +24910,7 @@ True,standard,blitz,resign,,black,,smileys.smiling-face,,,Konnov_Oleg,0.0
 True,standard,blitz,resign,,white,,,,,tsering,0.0
 True,standard,blitz,mate,,black,,,,,Konnov_Oleg,0.0
 True,standard,blitz,mate,,white,,,,,Corista,0.0
-True,standard,blitz,resign,,black,,,,,Konnov_Oleg,0.0
+True,standard,blitz,resign,,black,,food-drink.pear,,,Konnov_Oleg,0.0
 True,standard,blitz,mate,,white,,,,,VanjaKlim122016,0.0
 True,standard,blitz,mate,,black,,,,,Konnov_Oleg,0.0
 True,standard,blitz,resign,,black,,,,,Konnov_Oleg,0.0
@@ -28950,7 +28948,7 @@ True,standard,classical,resign,,black,,,,,Konnov_Oleg,10.0
 True,standard,classical,resign,,white,,,,,Pavvell,10.0
 True,standard,classical,resign,,white,,,,,morefee,10.0
 True,standard,classical,resign,,black,,,,,Konnov_Oleg,10.0
-True,standard,classical,mate,,black,,activity.lichess-mohawk,,,Konnov_Oleg,10.0
+True,standard,classical,mate,,black,,,,,Konnov_Oleg,10.0
 True,standard,blitz,resign,,black,,,,,Konnov_Oleg,0.0
 True,standard,classical,resign,,white,,,,,tawade-anil,10.0
 True,standard,classical,resign,,white,,,,,bonilima1,10.0
@@ -33150,9 +33148,6 @@ True,standard,rapid,resign,,black,,food-drink.kitchen-knife,,,Aborigen100500,0.0
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,s_sugiarto,0.0
 True,standard,rapid,resign,,white,,,,,Aborigen100500,0.0
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,CheeseBurguer1234,0.0
-True,standard,rapid,resign,,black,,,,,Aborigen100500,0.0
-True,standard,rapid,resign,,black,,,,,Aborigen100500,0.0
-True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,Rimuru_Tempest1231,0.0
 True,standard,bullet,draw,,,IM,activity.1st-place-medal,,,BeyEmirhan,0.0
 True,standard,blitz,resign,,white,IM,activity.1st-place-medal,,,yuriy76,2.0
 True,standard,blitz,mate,,white,FM,,,,BelyakovBogdan,2.0
