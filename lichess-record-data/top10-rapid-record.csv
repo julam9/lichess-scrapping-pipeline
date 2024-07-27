@@ -1641,7 +1641,7 @@ False,fromPosition,blitz,resign,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR 
 False,fromPosition,blitz,draw,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,,,activity.lichess-berserk,True,,DrVitman,0.0
 False,fromPosition,blitz,draw,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,,,,,,DrVitman,0.0
 False,fromPosition,blitz,draw,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,,,activity.diamond-suit,,,DrVitman,0.0
-False,fromPosition,blitz,draw,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,,,,,,DrVitman,0.0
+False,fromPosition,blitz,draw,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,,,smileys.partying-face,,,DrVitman,0.0
 False,fromPosition,blitz,draw,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,,,activity.lichess-variant-antichess,,,DrVitman,0.0
 False,fromPosition,blitz,resign,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,white,,symbols.pink-heart,,,DrVitman,0.0
 False,fromPosition,blitz,resign,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,white,,,,,DrVitman,0.0
@@ -4629,12 +4629,6 @@ False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB
 False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQq - 0 1,black,GM,activity.martial-arts-uniform,True,7.0,,
 False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQ - 0 1,black,GM,activity.martial-arts-uniform,True,6.0,,
 False,fromPosition,correspondence,mate,rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQ - 0 1,white,GM,activity.martial-arts-uniform,True,8.0,,
-False,fromPosition,blitz,resign,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 1,black,,,,,DrVitman,0.0
-False,fromPosition,blitz,outoftime,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 1,black,,,,,DrVitman,0.0
-False,fromPosition,blitz,resign,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 1,black,,,,,DrVitman,0.0
-False,fromPosition,blitz,resign,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 1,black,,,,,DrVitman,0.0
-False,fromPosition,blitz,resign,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 1,black,,,,,DrVitman,0.0
-False,fromPosition,blitz,resign,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 1,white,,,,,DrVitman,0.0
 True,chess960,bullet,resign,rbnkrnbq/pppppppp/8/8/8/8/PPPPPPPP/RBNKRNBQ w KQkq - 0 1,white,GM,,,,MrKooshaJ,0.0
 True,standard,rapid,mate,,black,,,,,MrKooshaJ,0.0
 True,standard,rapid,mate,,white,CM,smileys.smiling-face-with-horns,,,eiadamr625,0.0
@@ -6508,7 +6502,7 @@ True,standard,bullet,resign,,black,,,,,MrKooshaJ,0.0
 True,standard,bullet,resign,,black,CM,smileys.smiling-face-with-horns,,,HasoAraTransferNerde,0.0
 True,standard,bullet,resign,,black,,,,,MrKooshaJ,0.0
 True,standard,bullet,outoftime,,white,CM,smileys.smiling-face-with-horns,,,SouthAfricanWolf,0.0
-True,kingOfTheHill,bullet,resign,,black,,nature.monkey,,,MrKooshaJ,0.0
+True,kingOfTheHill,bullet,resign,,black,,nature.dog-face,,,MrKooshaJ,0.0
 True,antichess,bullet,variantEnd,,white,,,,,MrKooshaJ,0.0
 True,standard,bullet,outoftime,,black,,,,,MrKooshaJ,0.0
 True,standard,bullet,outoftime,,white,CM,smileys.smiling-face-with-horns,,,SouthAfricanWolf,0.0
@@ -21472,6 +21466,8 @@ True,standard,bullet,mate,,black,,,,,vvchessli,0.0
 True,standard,bullet,resign,,black,IM,smileys.cold-face,,,Asher_Angel,0.0
 True,standard,bullet,resign,,black,IM,smileys.cold-face,,,MMM_Zhukovskiy,0.0
 True,standard,bullet,outoftime,,white,,,,,vvchessli,0.0
+True,standard,blitz,outoftime,,black,,,,,megasnikolaos,0.0
+True,standard,blitz,outoftime,,black,,,,,momster4,0.0
 True,standard,classical,resign,,white,,,,,Tipsntaps,10.0
 True,standard,classical,resign,,white,,,,,kavianiplaysblitz,10.0
 True,standard,classical,resign,,black,,,True,,Konnov_Oleg,10.0
@@ -27289,11 +27285,8 @@ True,standard,blitz,outoftime,,,,people.flexed-biceps,,,Konnov_Oleg,0.0
 True,standard,blitz,outoftime,,white,,,,,Kotofeyca,0.0
 True,standard,blitz,outoftime,,white,,,,,Konnov_Oleg,0.0
 True,standard,blitz,resign,,white,,,,,Fortend,0.0
-True,standard,blitz,outoftime,,white,,,,,kamil1963,0.0
-True,standard,blitz,draw,,,,,,,osman_pshmahov05,0.0
-True,standard,blitz,resign,,black,IM,,,,Konnov_Oleg,0.0
-True,standard,blitz,mate,,black,,,,,Konnov_Oleg,0.0
-True,standard,blitz,resign,,black,,,,,Konnov_Oleg,0.0
+False,standard,rapid,resign,,white,NM,travel-places.sailboat,,,Ivan2203,5.0
+False,standard,rapid,resign,,black,,nature.beaver,,,Aborigen100500,5.0
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,emandr,5.0
 True,standard,rapid,resign,,black,,,,,Aborigen100500,0.0
 True,standard,rapid,outoftime,,black,,,,,Aborigen100500,0.0
@@ -30898,14 +30891,6 @@ True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,Anahoga,0.0
 True,standard,rapid,mate,,black,,smileys.beaming-face-with-smiling-eyes,,,Aborigen100500,0.0
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,magdal28,0.0
 True,standard,rapid,draw,,,,,,,Aborigen100500,0.0
-True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,Rokitokitoki,0.0
-True,standard,rapid,outoftime,,,,,,,Aborigen100500,0.0
-True,standard,blitz,resign,,white,NM,travel-places.sailboat,,,shuriks91,0.0
-True,standard,blitz,resign,,black,IM,,,,Aborigen100500,0.0
-True,standard,blitz,draw,,,NM,travel-places.sailboat,,,filolog,0.0
-True,standard,blitz,resign,,black,IM,,,,Aborigen100500,0.0
-True,standard,blitz,outoftime,,black,NM,travel-places.sailboat,,,filolog,0.0
-True,standard,blitz,resign,,white,IM,,,,Aborigen100500,0.0
 True,standard,bullet,draw,,,IM,activity.1st-place-medal,,,BeyEmirhan,0.0
 True,standard,blitz,resign,,white,IM,activity.1st-place-medal,,,yuriy76,2.0
 True,standard,blitz,mate,,white,FM,,,,BelyakovBogdan,2.0
@@ -32522,7 +32507,7 @@ False,standard,blitz,mate,,white,CM,people.handshake,,,datajunkie,0.0
 False,standard,blitz,resign,,black,IM,,,,Shiki_chess,0.0
 False,standard,blitz,resign,,black,CM,people.handshake,,,datajunkie,0.0
 False,standard,blitz,resign,,white,IM,,,,Shiki_chess,0.0
-False,standard,bullet,resign,,black,,activity.lichess-ultrabullet,,,datajunkie,0.0
+False,standard,bullet,resign,,black,,activity.lichess-bullet,,,datajunkie,0.0
 False,standard,bullet,resign,,white,IM,,,,sato4444,0.0
 False,standard,bullet,mate,,white,IM,,,,saki007,0.0
 False,standard,bullet,outoftime,,black,,,,,datajunkie,0.0
@@ -32607,7 +32592,7 @@ False,standard,bullet,outoftime,,black,,,True,,datajunkie,0.0
 False,standard,bullet,outoftime,,white,,nature.crocodile,True,,datajunkie,0.0
 False,standard,bullet,outoftime,,white,IM,,,,monjayaki,0.0
 False,standard,rapid,outoftime,,white,IM,,,,dreary-Saturday-Arvo,0.0
-False,standard,rapid,mate,,black,,activity.lichess-ultrabullet,,,datajunkie,2.0
+False,standard,rapid,mate,,black,,activity.lichess-bullet,,,datajunkie,2.0
 False,standard,rapid,outoftime,,black,,,True,,datajunkie,5.0
 False,standard,blitz,resign,,white,IM,,,,Kiriya_Aoi,3.0
 False,standard,rapid,outoftime,,white,IM,,,,DouglasPBrum,0.0
@@ -32719,9 +32704,9 @@ False,standard,bullet,resign,,white,IM,,,,Henrik_K,0.0
 False,standard,bullet,mate,,black,,,True,,datajunkie,0.0
 False,standard,bullet,mate,,black,,,,,datajunkie,0.0
 False,standard,bullet,mate,,white,IM,,,,hokuriku,0.0
-False,standard,bullet,mate,,black,,activity.lichess-ultrabullet,,,datajunkie,0.0
+False,standard,bullet,mate,,black,,activity.lichess-bullet,,,datajunkie,0.0
 False,standard,bullet,outoftime,,white,IM,,,,hitsuji,0.0
-False,standard,bullet,mate,,black,,activity.lichess-ultrabullet,,,datajunkie,0.0
+False,standard,bullet,mate,,black,,activity.lichess-bullet,,,datajunkie,0.0
 False,standard,bullet,mate,,white,IM,,,,hitsuji,0.0
 False,standard,bullet,mate,,black,,nature.crocodile,True,,datajunkie,0.0
 False,standard,bullet,outoftime,,white,IM,,,,yuutin,0.0
