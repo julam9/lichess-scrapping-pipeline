@@ -21476,11 +21476,6 @@ True,standard,bullet,mate,,black,,,,,vvchessli,0.0
 True,standard,bullet,resign,,black,IM,smileys.cold-face,,,Asher_Angel,0.0
 True,standard,bullet,resign,,black,IM,smileys.cold-face,,,MMM_Zhukovskiy,0.0
 True,standard,bullet,outoftime,,white,,,,,vvchessli,0.0
-True,standard,bullet,mate,,white,,nature.high-voltage,,,vvchessli,0.0
-True,standard,bullet,mate,,white,IM,smileys.cold-face,,,Darylp_baguio,0.0
-True,standard,bullet,resign,,black,NM,,,,vvchessli,0.0
-True,standard,bullet,outoftime,,black,IM,smileys.cold-face,,,Ernur2008,0.0
-True,standard,bullet,mate,,black,IM,smileys.cold-face,,,Darylp_baguio,0.0
 True,standard,classical,resign,,white,,,,,Tipsntaps,10.0
 True,standard,classical,resign,,white,,,,,kavianiplaysblitz,10.0
 True,standard,classical,resign,,black,,,True,,Konnov_Oleg,10.0
@@ -27305,8 +27300,6 @@ True,standard,blitz,mate,,black,,,,,Konnov_Oleg,0.0
 True,standard,blitz,resign,,black,,,,,Konnov_Oleg,0.0
 True,standard,blitz,mate,,white,,,,,Konnov_Oleg,0.0
 True,standard,blitz,outoftime,,white,,nature.cat-face,,,Konnov_Oleg,0.0
-True,standard,blitz,outoftime,,white,,,,,ChainsOfFantasia,0.0
-True,standard,blitz,resign,,black,,,,,Sergienko1965,2.0
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,emandr,5.0
 True,standard,rapid,resign,,black,,,,,Aborigen100500,0.0
 True,standard,rapid,outoftime,,black,,,,,Aborigen100500,0.0
@@ -30923,13 +30916,6 @@ True,standard,blitz,resign,,white,NM,travel-places.sailboat,,,Tuka_Rentsen,0.0
 True,standard,blitz,resign,,black,,,,,Aborigen100500,0.0
 True,standard,blitz,resign,,white,NM,travel-places.sailboat,,,Tuka_Rentsen,0.0
 True,standard,blitz,outoftime,,white,,food-drink.soft-ice-cream,,,Aborigen100500,0.0
-True,standard,blitz,outoftime,,white,,nature.tiger,,,Aborigen100500,0.0
-True,standard,blitz,outoftime,,black,NM,travel-places.sailboat,,,IDISJUDA,0.0
-True,standard,blitz,outoftime,,white,NM,travel-places.sailboat,,,Belousov1996,0.0
-True,standard,blitz,resign,,black,,,,,Aborigen100500,0.0
-True,standard,blitz,mate,,black,NM,travel-places.sailboat,,,Belousov1996,0.0
-True,standard,blitz,outoftime,,black,,,,,Aborigen100500,0.0
-True,standard,rapid,mate,,black,NM,travel-places.sailboat,,,nhattan185,0.0
 True,standard,bullet,draw,,,IM,activity.1st-place-medal,,,BeyEmirhan,0.0
 True,standard,blitz,resign,,white,IM,activity.1st-place-medal,,,yuriy76,2.0
 True,standard,blitz,mate,,white,FM,,,,BelyakovBogdan,2.0
@@ -33104,6 +33090,8 @@ True,standard,blitz,resign,,black,,,,,datajunkie,0.0
 True,standard,blitz,mate,,white,IM,,,,VadaPav2609,0.0
 True,standard,blitz,mate,,black,IM,,,,may_rus,0.0
 True,standard,blitz,resign,,black,,,,,datajunkie,0.0
+False,standard,bullet,outoftime,,,,smileys.cold-face,,,LoneCypress,0.0
+True,standard,bullet,stalemate,,,,,,,mr-a7aaaa17a7a,0.0
 True,standard,bullet,outoftime,,black,,smileys.cold-face,,,bopielmarionglero,0.0
 True,standard,bullet,mate,,white,,,,,mr-a7aaaa17a7a,0.0
 True,standard,bullet,outoftime,,white,,,,,mr-a7aaaa17a7a,0.0
