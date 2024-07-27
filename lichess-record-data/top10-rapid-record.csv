@@ -21466,6 +21466,10 @@ True,standard,bullet,mate,,black,,,,,vvchessli,0.0
 True,standard,bullet,resign,,black,IM,smileys.cold-face,,,Asher_Angel,0.0
 True,standard,bullet,resign,,black,IM,smileys.cold-face,,,MMM_Zhukovskiy,0.0
 True,standard,bullet,outoftime,,white,,,,,vvchessli,0.0
+True,standard,blitz,outoftime,,white,,objects.crossed-swords,,,Konnov_Oleg,0.0
+True,standard,blitz,outoftime,,white,,,,,Konnov_Oleg,0.0
+True,standard,blitz,resign,,white,,,,,gbhustler,0.0
+True,standard,blitz,outoftime,,black,,,,,benammar,0.0
 True,standard,blitz,outoftime,,black,,,,,megasnikolaos,0.0
 True,standard,blitz,outoftime,,black,,,,,momster4,0.0
 True,standard,classical,resign,,white,,,,,Tipsntaps,10.0
@@ -30887,10 +30891,6 @@ True,standard,rapid,draw,,,NM,travel-places.sailboat,,,sotirakis,0.0
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,Chesssknock,0.0
 True,standard,rapid,stalemate,,,,,,,Aborigen100500,0.0
 True,standard,rapid,resign,,black,NM,travel-places.sailboat,,,supertactic91,0.0
-True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,Anahoga,0.0
-True,standard,rapid,mate,,black,,smileys.beaming-face-with-smiling-eyes,,,Aborigen100500,0.0
-True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,magdal28,0.0
-True,standard,rapid,draw,,,,,,,Aborigen100500,0.0
 True,standard,bullet,draw,,,IM,activity.1st-place-medal,,,BeyEmirhan,0.0
 True,standard,blitz,resign,,white,IM,activity.1st-place-medal,,,yuriy76,2.0
 True,standard,blitz,mate,,white,FM,,,,BelyakovBogdan,2.0
