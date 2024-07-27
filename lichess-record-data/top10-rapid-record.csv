@@ -9479,7 +9479,7 @@ True,standard,bullet,resign,,black,FM,people.santa-claus,,,Tuzakli_Egitim,0.0
 True,standard,bullet,resign,,white,FM,nature.dog-face,,,CreativePlayer007,0.0
 True,standard,bullet,resign,,black,FM,,,,Tuzakli_Egitim,0.0
 True,standard,bullet,resign,,white,FM,nature.dog-face,,,Partosian,0.0
-True,standard,bullet,mate,,black,CM,food-drink.ginger,,,Tuzakli_Egitim,0.0
+True,standard,bullet,mate,,black,CM,smileys.face-with-open-mouth,,,Tuzakli_Egitim,0.0
 True,standard,bullet,outoftime,,black,FM,nature.dog-face,,,jlf287,0.0
 True,standard,bullet,resign,,black,CM,symbols.linux-tux-penguin,,,Tuzakli_Egitim,0.0
 True,standard,bullet,outoftime,,black,FM,nature.dog-face,,,stanbad1,0.0
@@ -11088,7 +11088,7 @@ True,standard,ultraBullet,outoftime,,,,activity.lichess-blitz,,,Tuzakli_Egitim,0
 True,standard,ultraBullet,outoftime,,white,FM,nature.dog-face,,,Snipper2,0.0
 True,standard,ultraBullet,resign,,black,,activity.lichess-blitz,,,Tuzakli_Egitim,0.0
 True,standard,ultraBullet,outoftime,,black,,symbols.question-mark,,,Tuzakli_Egitim,0.0
-True,standard,ultraBullet,outoftime,,black,,food-drink.clinking-beer-mugs,,,Tuzakli_Egitim,0.0
+True,standard,ultraBullet,outoftime,,black,,food-drink.pear,,,Tuzakli_Egitim,0.0
 True,standard,ultraBullet,outoftime,,black,FM,nature.dog-face,,,SnakeRush,0.0
 True,standard,ultraBullet,outoftime,,black,FM,nature.dog-face,,,Maxi_Berserk_2022,0.0
 True,standard,ultraBullet,outoftime,,black,,nature.butterfly,,,Tuzakli_Egitim,0.0
@@ -14374,11 +14374,6 @@ True,standard,bullet,resign,,black,FM,nature.dog-face,,,Hausigel,0.0
 True,standard,bullet,resign,,white,FM,nature.dog-face,,,Anchkaaaaa,0.0
 True,standard,bullet,stalemate,,,FM,nature.dog-face,,,Anchkaaaaa,0.0
 True,standard,bullet,draw,,,WFM,smileys.kissing-cat,,,Tuzakli_Egitim,0.0
-True,standard,bullet,outoftime,,white,FM,nature.dog-face,,,Tunartank,0.0
-True,standard,bullet,resign,,black,,,,,Tuzakli_Egitim,0.0
-True,standard,bullet,resign,,white,FM,nature.dog-face,,,Tunartank,0.0
-True,standard,bullet,outoftime,,white,,,,,Tuzakli_Egitim,0.0
-True,standard,bullet,outoftime,,white,FM,nature.dog-face,,,Tunartank,0.0
 True,standard,classical,outoftime,,white,,,,,cjota95,0.0
 True,standard,blitz,outoftime,,white,,,,,cjota95,0.0
 True,standard,blitz,mate,,white,GM,,,,sanjaypune,0.0
@@ -17437,7 +17432,7 @@ True,standard,bullet,resign,,black,IM,smileys.cold-face,,,Aragonian78,0.0
 True,standard,bullet,resign,,white,IM,smileys.cold-face,,,Khisnvuh,0.0
 True,standard,bullet,mate,,black,,smileys.smiling-face-with-sunglasses,,,vvchessli,0.0
 True,standard,bullet,resign,,white,IM,smileys.cold-face,,,Statham_13,0.0
-True,standard,bullet,mate,,white,CM,food-drink.ginger,,,vvchessli,0.0
+True,standard,bullet,mate,,white,CM,smileys.face-with-open-mouth,,,vvchessli,0.0
 True,standard,bullet,mate,,white,IM,smileys.cold-face,,,Statham_13,0.0
 True,standard,bullet,resign,,white,,,,,vvchessli,0.0
 True,standard,bullet,resign,,black,,,,,vvchessli,0.0
@@ -30887,10 +30882,6 @@ True,standard,rapid,resign,,white,,,,,Aborigen100500,0.0
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,CheeseBurguer1234,0.0
 True,standard,rapid,resign,,black,,,,,Aborigen100500,0.0
 True,standard,rapid,resign,,black,,,,,Aborigen100500,0.0
-True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,Rimuru_Tempest1231,0.0
-True,standard,rapid,resign,,white,,,,,Aborigen100500,0.0
-True,standard,rapid,draw,,,NM,travel-places.sailboat,,,sotirakis,0.0
-True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,Chesssknock,0.0
 True,standard,bullet,draw,,,IM,activity.1st-place-medal,,,BeyEmirhan,0.0
 True,standard,blitz,resign,,white,IM,activity.1st-place-medal,,,yuriy76,2.0
 True,standard,blitz,mate,,white,FM,,,,BelyakovBogdan,2.0
@@ -32034,7 +32025,7 @@ True,standard,blitz,resign,,white,IM,activity.1st-place-medal,,,transformes,0.0
 True,standard,blitz,mate,,black,,,,,BelyakovBogdan,0.0
 True,standard,blitz,draw,,,IM,activity.1st-place-medal,,,Shishka_v_shapke,0.0
 True,standard,blitz,mate,,black,,smileys.smiling-face,,,BelyakovBogdan,0.0
-True,standard,blitz,outoftime,,black,CM,food-drink.ginger,,,BelyakovBogdan,0.0
+True,standard,blitz,outoftime,,black,CM,smileys.face-with-open-mouth,,,BelyakovBogdan,0.0
 True,standard,blitz,resign,,white,IM,activity.1st-place-medal,,,nalkwsfa,0.0
 True,standard,blitz,draw,,,IM,activity.1st-place-medal,,,Mischuk_D,0.0
 True,standard,blitz,resign,,black,,,,,BelyakovBogdan,0.0
@@ -32307,6 +32298,9 @@ True,standard,blitz,resign,,white,IM,activity.1st-place-medal,True,,SemenPuzyrev
 True,standard,blitz,resign,,black,,nature.scorpion,,,BelyakovBogdan,2.0
 True,standard,rapid,resign,,black,,,,,BelyakovBogdan,0.0
 True,standard,rapid,resign,,white,IM,activity.1st-place-medal,True,,schleb,0.0
+True,standard,blitz,outoftime,,white,IM,,,,Sushila1,0.0
+True,standard,blitz,resign,,black,,,,,datajunkie,0.0
+True,standard,blitz,resign,,white,IM,,,,AlexSt_09,0.0
 True,standard,rapid,resign,,black,,,,,datajunkie,0.0
 True,standard,rapid,draw,,,IM,,,,JiRoS99,0.0
 True,standard,rapid,draw,,,,,,,datajunkie,0.0
