@@ -6508,7 +6508,7 @@ True,standard,bullet,resign,,black,,,,,MrKooshaJ,0.0
 True,standard,bullet,resign,,black,CM,smileys.smiling-face-with-horns,,,HasoAraTransferNerde,0.0
 True,standard,bullet,resign,,black,,,,,MrKooshaJ,0.0
 True,standard,bullet,outoftime,,white,CM,smileys.smiling-face-with-horns,,,SouthAfricanWolf,0.0
-True,kingOfTheHill,bullet,resign,,black,,nature.dog-face,,,MrKooshaJ,0.0
+True,kingOfTheHill,bullet,resign,,black,,nature.monkey,,,MrKooshaJ,0.0
 True,antichess,bullet,variantEnd,,white,,,,,MrKooshaJ,0.0
 True,standard,bullet,outoftime,,black,,,,,MrKooshaJ,0.0
 True,standard,bullet,outoftime,,white,CM,smileys.smiling-face-with-horns,,,SouthAfricanWolf,0.0
@@ -14383,11 +14383,7 @@ True,standard,bullet,resign,,black,,,,,Tuzakli_Egitim,0.0
 True,standard,bullet,resign,,white,FM,nature.dog-face,,,Tunartank,0.0
 True,standard,bullet,outoftime,,white,,,,,Tuzakli_Egitim,0.0
 True,standard,bullet,outoftime,,white,FM,nature.dog-face,,,Tunartank,0.0
-True,standard,bullet,outoftime,,white,FM,nature.dog-face,,,Tunartank,0.0
-True,standard,bullet,draw,,,,,,,Tuzakli_Egitim,0.0
-True,standard,bullet,resign,,white,FM,nature.dog-face,,,Tunartank,0.0
-True,standard,bullet,outoftime,,white,,,,,Tuzakli_Egitim,0.0
-True,standard,bullet,resign,,white,FM,nature.dog-face,,,Tunartank,0.0
+True,standard,classical,outoftime,,white,,,,,cjota95,0.0
 True,standard,blitz,outoftime,,white,,,,,cjota95,0.0
 True,standard,blitz,mate,,white,GM,,,,sanjaypune,0.0
 True,standard,blitz,resign,,black,IM,,,,cjota95,0.0
@@ -24005,7 +24001,7 @@ True,standard,blitz,outoftime,,black,,,,,HuKTO,0.0
 True,standard,blitz,outoftime,,black,,,,,Konnov_Oleg,0.0
 True,standard,blitz,resign,,white,,,,,TAuHaUMEHu123321,0.0
 True,standard,blitz,outoftime,,white,,,,,Yurukova04,0.0
-True,standard,blitz,outoftime,,black,,nature.fox,,,Konnov_Oleg,0.0
+True,standard,blitz,outoftime,,black,,symbols.copyright,,,Konnov_Oleg,0.0
 True,standard,blitz,outoftime,,white,,,,,Konnov_Oleg,0.0
 True,standard,blitz,mate,,white,,,,,Fast_Player20233,0.0
 True,standard,blitz,resign,,black,,,,,Konnov_Oleg,0.0
@@ -27298,8 +27294,6 @@ True,standard,blitz,draw,,,,,,,osman_pshmahov05,0.0
 True,standard,blitz,resign,,black,IM,,,,Konnov_Oleg,0.0
 True,standard,blitz,mate,,black,,,,,Konnov_Oleg,0.0
 True,standard,blitz,resign,,black,,,,,Konnov_Oleg,0.0
-True,standard,blitz,mate,,white,,,,,Konnov_Oleg,0.0
-True,standard,blitz,outoftime,,white,,nature.cat-face,,,Konnov_Oleg,0.0
 True,standard,rapid,resign,,white,NM,travel-places.sailboat,,,emandr,5.0
 True,standard,rapid,resign,,black,,,,,Aborigen100500,0.0
 True,standard,rapid,outoftime,,black,,,,,Aborigen100500,0.0
@@ -30912,10 +30906,6 @@ True,standard,blitz,draw,,,NM,travel-places.sailboat,,,filolog,0.0
 True,standard,blitz,resign,,black,IM,,,,Aborigen100500,0.0
 True,standard,blitz,outoftime,,black,NM,travel-places.sailboat,,,filolog,0.0
 True,standard,blitz,resign,,white,IM,,,,Aborigen100500,0.0
-True,standard,blitz,resign,,white,NM,travel-places.sailboat,,,Tuka_Rentsen,0.0
-True,standard,blitz,resign,,black,,,,,Aborigen100500,0.0
-True,standard,blitz,resign,,white,NM,travel-places.sailboat,,,Tuka_Rentsen,0.0
-True,standard,blitz,outoftime,,white,,food-drink.soft-ice-cream,,,Aborigen100500,0.0
 True,standard,bullet,draw,,,IM,activity.1st-place-medal,,,BeyEmirhan,0.0
 True,standard,blitz,resign,,white,IM,activity.1st-place-medal,,,yuriy76,2.0
 True,standard,blitz,mate,,white,FM,,,,BelyakovBogdan,2.0
@@ -32332,6 +32322,7 @@ True,standard,blitz,resign,,white,IM,activity.1st-place-medal,True,,SemenPuzyrev
 True,standard,blitz,resign,,black,,nature.scorpion,,,BelyakovBogdan,2.0
 True,standard,rapid,resign,,black,,,,,BelyakovBogdan,0.0
 True,standard,rapid,resign,,white,IM,activity.1st-place-medal,True,,schleb,0.0
+True,standard,rapid,draw,,,IM,,,,JiRoS99,0.0
 True,standard,rapid,draw,,,,,,,datajunkie,0.0
 True,standard,blitz,outoftime,,black,,,,,datajunkie,0.0
 True,standard,blitz,outoftime,,,,symbols.white-question-mark,,,datajunkie,0.0
