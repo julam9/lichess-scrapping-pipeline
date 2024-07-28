@@ -6919,9 +6919,9 @@ True,standard,bullet,outoftime,,white,FM,tuzakli_egitim,PlayingLikeATrash,,symbo
 True,standard,bullet,resign,,white,,playinglikeatrash,Tuzakli_Egitim,FM,nature.dog-face,0.0
 True,standard,bullet,resign,,white,FM,tuzakli_egitim,Chess-Network,NM,travel-places.globe-with-meridians,0.0
 True,standard,bullet,resign,,black,FM,tuzakli_egitim,markster12,,,0.0
-True,standard,bullet,mate,,white,FM,tuzakli_egitim,aFANofFUN,CM,symbols.dizzy,0.0
+True,standard,bullet,mate,,white,FM,tuzakli_egitim,aFANofFUN,CM,activity.fishing-pole,0.0
 True,standard,bullet,resign,,white,CM,afanoffun,Tuzakli_Egitim,FM,nature.dog-face,0.0
-True,standard,bullet,resign,,white,FM,tuzakli_egitim,aFANofFUN,CM,symbols.dizzy,0.0
+True,standard,bullet,resign,,white,FM,tuzakli_egitim,aFANofFUN,CM,activity.fishing-pole,0.0
 True,standard,bullet,resign,,black,CM,afanoffun,Tuzakli_Egitim,FM,nature.dog-face,0.0
 True,standard,bullet,resign,,white,FM,tuzakli_egitim,Sakanelli,,,0.0
 True,standard,bullet,resign,,white,,sakanelli,Tuzakli_Egitim,FM,nature.dog-face,0.0
@@ -9151,13 +9151,13 @@ True,standard,rapid,resign,,white,,gefuehlter_fm,Tuzakli_Egitim,FM,nature.dog-fa
 True,standard,rapid,draw,,,FM,tuzakli_egitim,gefuehlter_FM,,,0.0
 True,standard,rapid,resign,,white,,gefuehlter_fm,Tuzakli_Egitim,FM,nature.dog-face,0.0
 True,standard,blitz,resign,,white,FM,tuzakli_egitim,americannextstar,IM,,0.0
-True,kingOfTheHill,bullet,resign,,black,FM,tuzakli_egitim,aFANofFUN,CM,symbols.dizzy,0.0
+True,kingOfTheHill,bullet,resign,,black,FM,tuzakli_egitim,aFANofFUN,CM,activity.fishing-pole,0.0
 True,kingOfTheHill,bullet,variantEnd,,white,CM,afanoffun,Tuzakli_Egitim,FM,nature.dog-face,0.0
-True,kingOfTheHill,bullet,variantEnd,,black,FM,tuzakli_egitim,aFANofFUN,CM,symbols.dizzy,0.0
+True,kingOfTheHill,bullet,variantEnd,,black,FM,tuzakli_egitim,aFANofFUN,CM,activity.fishing-pole,0.0
 True,kingOfTheHill,bullet,resign,,white,CM,afanoffun,Tuzakli_Egitim,FM,nature.dog-face,0.0
-True,kingOfTheHill,bullet,mate,,black,FM,tuzakli_egitim,aFANofFUN,CM,symbols.dizzy,0.0
+True,kingOfTheHill,bullet,mate,,black,FM,tuzakli_egitim,aFANofFUN,CM,activity.fishing-pole,0.0
 True,kingOfTheHill,bullet,resign,,white,CM,afanoffun,Tuzakli_Egitim,FM,nature.dog-face,0.0
-True,kingOfTheHill,bullet,outoftime,,white,FM,tuzakli_egitim,aFANofFUN,CM,symbols.dizzy,0.0
+True,kingOfTheHill,bullet,outoftime,,white,FM,tuzakli_egitim,aFANofFUN,CM,activity.fishing-pole,0.0
 True,kingOfTheHill,bullet,outoftime,,black,CM,afanoffun,Tuzakli_Egitim,FM,nature.dog-face,0.0
 True,chess960,bullet,mate,nbnqbrkr/pppppppp/8/8/8/8/PPPPPPPP/NBNQBRKR w KQkq - 0 1,white,FM,tuzakli_egitim,InIvincibleStrategy,,,0.0
 True,chess960,bullet,mate,rkbnnbqr/pppppppp/8/8/8/8/PPPPPPPP/RKBNNBQR w KQkq - 0 1,black,,inivinciblestrategy,Tuzakli_Egitim,FM,nature.dog-face,0.0
@@ -11969,13 +11969,13 @@ True,standard,bullet,outoftime,,black,IM,vvchessli,StarkPrime,,,0.0
 True,standard,bullet,resign,,white,,starkprime,vvchessli,IM,smileys.cold-face,0.0
 True,standard,bullet,mate,,black,IM,vvchessli,StarkPrime,,,0.0
 True,standard,bullet,resign,,white,,starkprime,vvchessli,IM,smileys.cold-face,0.0
-True,standard,bullet,mate,,black,IM,vvchessli,Destiny_Of_Power,,food-drink.cooked-rice,0.0
+True,standard,bullet,mate,,black,IM,vvchessli,Destiny_Of_Power,,nature.fire,0.0
 True,standard,bullet,outoftime,,black,IM,vvchessli,AsoAjedrezMerida,,,0.0
 True,standard,bullet,resign,,white,,chesscoach2416,vvchessli,IM,smileys.cold-face,0.0
 True,standard,bullet,outoftime,,white,IM,vvchessli,YXBAT,,,0.0
 True,standard,bullet,resign,,black,,qdxds,vvchessli,IM,smileys.cold-face,0.0
 True,standard,bullet,mate,,white,IM,vvchessli,mmmmmnmmmmm,,,0.0
-True,standard,bullet,mate,,white,IM,vvchessli,Destiny_Of_Power,,food-drink.cooked-rice,0.0
+True,standard,bullet,mate,,white,IM,vvchessli,Destiny_Of_Power,,nature.fire,0.0
 True,standard,bullet,resign,,black,,destiny_of_power,vvchessli,IM,smileys.cold-face,0.0
 True,standard,bullet,outoftime,,black,,satunnainen,vvchessli,IM,smileys.cold-face,0.0
 True,standard,bullet,resign,,black,IM,vvchessli,satunnainen,,smileys.ghost,0.0
@@ -12087,7 +12087,7 @@ True,standard,bullet,mate,,white,,arne1988,vvchessli,IM,smileys.cold-face,0.0
 True,standard,bullet,mate,,black,IM,vvchessli,arne1988,,,0.0
 True,standard,bullet,outoftime,,black,,arne1988,vvchessli,IM,smileys.cold-face,0.0
 True,standard,bullet,outoftime,,white,,destiny_of_power,vvchessli,IM,smileys.cold-face,0.0
-True,standard,bullet,resign,,white,IM,vvchessli,Destiny_Of_Power,,food-drink.cooked-rice,0.0
+True,standard,bullet,resign,,white,IM,vvchessli,Destiny_Of_Power,,nature.fire,0.0
 True,standard,bullet,mate,,black,NM,pliukha_mikhail,vvchessli,IM,smileys.cold-face,0.0
 True,standard,bullet,mate,,white,IM,vvchessli,Pliukha_Mikhail,NM,objects.ribbon,0.0
 True,standard,bullet,resign,,white,NM,pliukha_mikhail,vvchessli,IM,smileys.cold-face,0.0
@@ -13412,7 +13412,7 @@ True,standard,bullet,resign,,black,IM,vvchessli,max22maxqaz,,,0.0
 True,standard,bullet,mate,,black,,max22maxqaz,vvchessli,IM,smileys.cold-face,0.0
 True,standard,bullet,draw,,,IM,vvchessli,killer-saba,,,0.0
 True,standard,bullet,outoftime,,black,IM,vvchessli,fanfanfan,,activity.basketball,0.0
-True,standard,bullet,resign,,black,IM,vvchessli,Destiny_Of_Power,,food-drink.cooked-rice,0.0
+True,standard,bullet,resign,,black,IM,vvchessli,Destiny_Of_Power,,nature.fire,0.0
 True,standard,bullet,outoftime,,black,,destiny_of_power,vvchessli,IM,smileys.cold-face,0.0
 True,standard,bullet,outoftime,,white,IM,vvchessli,casuallychess,,,0.0
 True,standard,bullet,resign,,black,,casuallychess,vvchessli,IM,smileys.cold-face,0.0
@@ -14365,7 +14365,7 @@ True,standard,bullet,resign,,white,IM,vvchessli,Pawn_Smacker,,nature.hatching-ch
 True,standard,bullet,draw,,,IM,vvchessli,onlybulletplayer,,smileys.alien,0.0
 True,standard,bullet,outoftime,,white,IM,vvchessli,YERVANDKHACHIKYAN,,,1.0
 True,standard,bullet,outoftime,,white,CM,afanoffun,vvchessli,IM,smileys.cold-face,0.0
-True,standard,bullet,mate,,white,IM,vvchessli,aFANofFUN,CM,symbols.dizzy,0.0
+True,standard,bullet,mate,,white,IM,vvchessli,aFANofFUN,CM,activity.fishing-pole,0.0
 True,standard,bullet,outoftime,,white,CM,paff_morris_twitch,vvchessli,IM,smileys.cold-face,0.0
 True,standard,bullet,resign,,white,IM,vvchessli,emheyturq,FM,,0.0
 True,standard,bullet,resign,,white,IM,vvchessli,Gen_1,,smileys.face-with-monocle,0.0
@@ -14864,7 +14864,7 @@ True,standard,bullet,outoftime,,black,GM,titan00013,vvchessli,IM,smileys.cold-fa
 True,standard,bullet,outoftime,,white,IM,vvchessli,titan00013,GM,,0.0
 True,standard,bullet,outoftime,,white,IM,vvchessli,King_chess_0701,,,0.0
 True,standard,bullet,outoftime,,black,,king_chess_0701,vvchessli,IM,smileys.cold-face,0.0
-True,standard,bullet,outoftime,,white,IM,vvchessli,aFANofFUN,CM,symbols.dizzy,0.0
+True,standard,bullet,outoftime,,white,IM,vvchessli,aFANofFUN,CM,activity.fishing-pole,0.0
 True,standard,bullet,resign,,white,IM,vvchessli,AkiraSendoh,,smileys.ogre,0.0
 True,standard,bullet,resign,,black,,akirasendoh,vvchessli,IM,smileys.cold-face,0.0
 True,standard,bullet,outoftime,,white,IM,vvchessli,AkiraSendoh,,smileys.ogre,0.0
@@ -16836,6 +16836,12 @@ True,standard,bullet,mate,,black,,asher_angel,vvchessli,IM,smileys.cold-face,0.0
 True,standard,bullet,resign,,black,IM,vvchessli,Asher_Angel,,,0.0
 True,standard,bullet,resign,,black,IM,vvchessli,MMM_Zhukovskiy,,symbols.scorpio,0.0
 True,standard,bullet,outoftime,,white,,dy0727,vvchessli,IM,smileys.cold-face,0.0
+True,standard,blitz,outoftime,,white,,itachiut,Konnov_Oleg,,,0.0
+True,standard,blitz,outoftime,,white,,darkmaul11,Konnov_Oleg,,,0.0
+True,standard,blitz,resign,,white,,konnov_oleg,gbhustler,,,0.0
+True,standard,blitz,outoftime,,black,,konnov_oleg,benammar,CM,,0.0
+True,standard,blitz,outoftime,,black,,konnov_oleg,megasnikolaos,,,0.0
+True,standard,blitz,outoftime,,black,,konnov_oleg,momster4,,,0.0
 True,standard,classical,resign,,white,,konnov_oleg,Tipsntaps,,,10.0
 True,standard,classical,resign,,white,,konnov_oleg,kavianiplaysblitz,,,10.0
 True,standard,classical,resign,,black,,habsnichtgesehen,Konnov_Oleg,,,10.0
@@ -22653,7 +22659,7 @@ True,standard,blitz,outoftime,,,,apodex64,Konnov_Oleg,,,0.0
 True,standard,blitz,outoftime,,white,,konnov_oleg,Kotofeyca,FM,nature.cat,0.0
 True,standard,blitz,outoftime,,white,,bsmail,Konnov_Oleg,,,0.0
 True,standard,blitz,resign,,white,,konnov_oleg,Fortend,,,0.0
-True,standard,blitz,outoftime,,white,,konnov_oleg,kamil1963,,,0.0
+False,standard,rapid,resign,,white,NM,aborigen100500,Ivan2203,,nature.beaver,5.0
 False,standard,rapid,resign,,black,,ivan2203,Aborigen100500,NM,travel-places.sailboat,5.0
 True,standard,rapid,resign,,white,NM,aborigen100500,emandr,,smileys.cold-face,5.0
 True,standard,rapid,resign,,black,,potapych18,Aborigen100500,NM,travel-places.sailboat,0.0
@@ -25943,7 +25949,7 @@ True,standard,blitz,outoftime,,black,NM,aborigen100500,BlackBoarder,FM,,0.0
 True,standard,blitz,stalemate,,,FM,blackboarder,Aborigen100500,NM,travel-places.sailboat,0.0
 True,standard,blitz,resign,,black,,lestri,Aborigen100500,NM,travel-places.sailboat,0.0
 True,standard,blitz,resign,,black,NM,aborigen100500,apollosantics,,,0.0
-True,standard,blitz,resign,,black,NM,aborigen100500,aFANofFUN,CM,symbols.dizzy,0.0
+True,standard,blitz,resign,,black,NM,aborigen100500,aFANofFUN,CM,activity.fishing-pole,0.0
 True,standard,blitz,outoftime,,white,CM,afanoffun,Aborigen100500,NM,travel-places.sailboat,0.0
 True,standard,blitz,mate,,white,NM,aborigen100500,JakubFusOnYt,,,0.0
 True,standard,blitz,outoftime,,,NM,aborigen100500,Melkonyan_Vardan,CM,,0.0
@@ -26255,11 +26261,6 @@ True,standard,rapid,draw,,,NM,aborigen100500,sotirakis,,,0.0
 True,standard,rapid,resign,,white,NM,aborigen100500,Chesssknock,,,0.0
 True,standard,rapid,stalemate,,,,umaychess,Aborigen100500,NM,travel-places.sailboat,0.0
 True,standard,rapid,resign,,black,NM,aborigen100500,supertactic91,,people.santa-claus-medium-light-skin-tone,0.0
-True,standard,rapid,resign,,white,NM,aborigen100500,Anahoga,,nature.fire,0.0
-True,standard,rapid,mate,,black,,party-man,Aborigen100500,NM,travel-places.sailboat,0.0
-True,standard,rapid,resign,,white,NM,aborigen100500,magdal28,,,0.0
-True,standard,rapid,draw,,,,xtraspicy,Aborigen100500,NM,travel-places.sailboat,0.0
-True,standard,rapid,resign,,white,NM,aborigen100500,Rokitokitoki,,,0.0
 True,standard,bullet,draw,,,IM,belyakovbogdan,BeyEmirhan,,symbols.mending-heart,0.0
 True,standard,blitz,resign,,white,IM,belyakovbogdan,yuriy76,,nature.scorpion,2.0
 True,standard,blitz,mate,,white,FM,roman_yanchenko,BelyakovBogdan,IM,activity.1st-place-medal,2.0
