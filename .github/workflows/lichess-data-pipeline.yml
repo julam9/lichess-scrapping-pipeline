@@ -2,6 +2,8 @@ name: lichess-data-pipeline-workflow
 
 on: 
   push:
+    paths-ignore:
+      - 'lichess-record-data/**'
   schedule: 
     - cron: "0 0 1 1-12 *" # run every 00:00 at day 1 from January to December
   workflow_dispatch: # manual trigger
@@ -53,7 +55,7 @@ jobs:
         if: env.changes == 'true' # if changes made, push data to repo
         run: |
           echo "Committing changes..."
-          git commit -m "updated record data"
+          git commit -m "updated record data [skip ci]" # add a tag to skip the workflow
           echo "Pushing changes..."
           git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }}.git
           git push
